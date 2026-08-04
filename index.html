@@ -1,1 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <title>Scholarship Hub — Find Scholarships Worldwide</title>
+  <meta name="description" content="Find scholarships, grants and funding opportunities from universities, governments and international organizations worldwide.">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-icon">🎓</span>
+        <span>Scholarship<span class="logo-accent">Hub</span></span>
+      </a>
+
+      <nav>
+        <a href="#scholarships">Scholarships</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+
+  <main>
+
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container hero-content">
+
+        <div class="hero-badge">
+          🌍 Scholarships from around the world
+        </div>
+
+        <h1>
+          Find Your Next
+          <span>Scholarship</span>
+        </h1>
+
+        <p>
+          Discover scholarships, grants and funding opportunities
+          from trusted sources worldwide.
+        </p>
+
+        <div class="hero-search">
+          <span>🔎</span>
+          <input
+            type="text"
+            id="searchInput"
+            placeholder="Search scholarships, countries, providers..."
+          >
+        </div>
+
+        <div class="hero-stats">
+          <div>
+            <strong id="totalCount">0</strong>
+            <span>Opportunities</span>
+          </div>
+
+          <div>
+            <strong id="countryCount">0</strong>
+            <span>Countries</span>
+          </div>
+
+          <div>
+            <strong id="providerCount">0</strong>
+            <span>Providers</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- Scholarships -->
+    <section class="scholarship-section" id="scholarships">
+
+      <div class="container">
+
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">EXPLORE</span>
+            <h2>Scholarship Opportunities</h2>
+          </div>
+
+          <div class="result-count">
+            <span id="resultCount">0</span> results
+          </div>
+        </div>
+
+
+        <!-- Filters -->
+        <div class="filters">
+
+          <div class="filter-group">
+            <label for="countryFilter">Destination</label>
+            <select id="countryFilter">
+              <option value="">All destinations</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="degreeFilter">Degree level</label>
+            <select id="degreeFilter">
+              <option value="">All degree levels</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="fundingFilter">Funding type</label>
+            <select id="fundingFilter">
+              <option value="">All funding types</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <label for="statusFilter">Status</label>
+            <select id="statusFilter">
+              <option value="">All statuses</option>
+              <option value="open">Open</option>
+              <option value="unknown">Unknown</option>
+              <option value="closed">Closed</option>
+            </select>
+          </div>
+
+          <button id="clearFilters" class="clear-btn">
+            Clear filters
+          </button>
+
+        </div>
+
+
+        <!-- Loading -->
+        <div id="loading" class="loading">
+          <div class="spinner"></div>
+          <p>Loading scholarships...</p>
+        </div>
+
+
+        <!-- Error -->
+        <div id="errorMessage" class="error-message hidden">
+          <div>⚠️</div>
+          <h3>Unable to load scholarships</h3>
+          <p>Please refresh the page and try again.</p>
+        </div>
+
+
+        <!-- Cards -->
+        <div id="scholarshipGrid" class="scholarship-grid"></div>
+
+
+        <!-- No results -->
+        <div id="noResults" class="no-results hidden">
+          <div class="no-results-icon">🔎</div>
+          <h3>No scholarships found</h3>
+          <p>Try changing your search or filters.</p>
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section class="about-section" id="about">
+      <div class="container">
+
+        <div class="about-card">
+
+          <div class="about-icon">🎓</div>
+
+          <div>
+            <span class="eyebrow">ABOUT SCHOLARSHIP HUB</span>
+
+            <h2>One place to discover opportunities</h2>
+
+            <p>
+              Scholarship Hub collects scholarship and funding
+              opportunities from official sources and makes them
+              easier to discover in one place.
+            </p>
+
+            <p>
+              When you find an opportunity you like, you can visit
+              the original official source directly.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+
+  <footer>
+    <div class="container footer-inner">
+
+      <div class="logo">
+        <span class="logo-icon">🎓</span>
+        <span>Scholarship<span class="logo-accent">Hub</span></span>
+      </div>
+
+      <p>
+        © 2026 Scholarship Hub. Opportunities are linked to their
+        original official sources.
+      </p>
+
+    </div>
+  </footer>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>
