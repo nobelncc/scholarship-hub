@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T12:38:45.589365+00:00",
+  "updated_at": "2026-08-26T00:48:48.990587+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -60,29 +60,36 @@
     },
     {
       "id": "14b30f4d540e3ef1c382",
-      "title": "DAAD Masters’ Study Scholarships",
+      "title": "RISE Professional",
       "provider": "DAAD",
       "source": "DAAD",
       "source_type": "official",
       "destination_countries": [
         "Germany"
       ],
-      "eligible_countries": [],
-      "degree_levels": [
-        "Master's"
+      "eligible_countries": [
+        "United Kingdom",
+        "Ireland"
       ],
-      "fields": [],
+      "degree_levels": [
+        "Master",
+        "PhD"
+      ],
+      "fields": [
+        "Science",
+        "Engineering"
+      ],
       "funding_type": [
-        "Scholarship"
+        "internship"
       ],
       "deadline": null,
       "start_date": null,
-      "duration": null,
-      "description": "Study Scholarship for those interested in pursuing a Master’s Degree in Germany.",
+      "duration": "3 months",
+      "description": "RISE Professional offers summer research internships of three months to Master’s and PhD students from the UK and Ireland at companies and research institutions with strong relations to Germany.",
       "official_url": "https://www.daad.org.uk/en/find-funding/graduate-funding-opportunities/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:23:23.050040+00:00"
+      "last_checked": "2026-08-26T00:34:25.274990+00:00"
     },
     {
       "id": "fdcbea5c9fa64ba3c634",
@@ -200,10 +207,10 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master"
+        "Postgraduate"
       ],
       "fields": [
-        "All Academic Disciplines"
+        "All academic disciplines"
       ],
       "funding_type": [
         "Scholarship"
@@ -215,7 +222,7 @@
       "official_url": "https://www.daad.org.uk/en/find-funding/scholarship-database/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:22:50.065131+00:00"
+      "last_checked": "2026-08-26T00:34:11.028578+00:00"
     },
     {
       "id": "4c281c2e2d6187f7b863",
@@ -237,11 +244,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 to 2 academic years",
-      "description": "Erasmus Mundus Joint Masters are prestigious international masters, jointly designed and delivered by a group of higher education institutions. Full scholarships are available for the best-ranked students worldwide, covering participation costs and contributing to travel, visa, and living allowance.",
+      "description": "Erasmus Mundus Joint Masters are prestigious international masters, jointly designed and delivered by a group of higher education institutions. Full scholarships are available for the best-ranked students worldwide, covering participation costs, travel, visa, and a living allowance.",
       "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:23:45.104331+00:00"
+      "last_checked": "2026-08-26T00:34:36.382387+00:00"
     },
     {
       "id": "cf73fa8ed731f4ae2154",
@@ -250,25 +257,28 @@
       "source": "Erasmus Mundus",
       "source_type": "official",
       "destination_countries": [
-        "Europe"
+        "EU Member States",
+        "Third countries associated to the Programme"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "Worldwide"
+      ],
       "degree_levels": [
         "Master"
       ],
       "fields": [],
       "funding_type": [
-        "scholarship",
-        "grant"
+        "Scholarship",
+        "Grant"
       ],
       "deadline": null,
       "start_date": null,
       "duration": "1 to 2 academic years",
-      "description": "Erasmus Mundus Joint Masters are high-level and integrated study programmes at the master level, designed and delivered by an international partnership of higher education institutions. The EU provides funding for running these programmes and offers competitive scholarships to students worldwide.",
+      "description": "Erasmus Mundus Joint Masters are high-level and integrated study programmes, at master level, designed and delivered by an international partnership of higher education institutions. The EU provides funding for these programmes and offers competitive scholarships to students worldwide.",
       "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters",
-      "status": "closed",
+      "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:23:50.735439+00:00"
+      "last_checked": "2026-08-26T00:34:43.690323+00:00"
     },
     {
       "id": "bedb47140ba03ae3c2c2",
@@ -514,12 +524,12 @@
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "1 year",
-      "description": "Chevening Scholarships enable outstanding emerging leaders from all over the world to pursue one-year master’s degrees in the UK. The scholarship is fully-funded and is intended for individuals with the passion and influence to solve pressing local, national, or global challenges.",
+      "duration": "One year",
+      "description": "Chevening Scholarships enable outstanding emerging leaders from all over the world to pursue one-year master’s degrees in the UK. The scholarship covers the costs associated with the study, allowing scholars to focus on achieving their professional goals, networking, and experiencing UK culture.",
       "official_url": "https://www.chevening.org/scholarships/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:24:38.825968+00:00"
+      "last_checked": "2026-08-26T00:35:29.252177+00:00"
     },
     {
       "id": "8b4e950eb100538375ff",
@@ -558,21 +568,21 @@
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": "1 year",
-      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The programme is aimed at emerging leaders with ambition, leadership qualities, and a passion for influencing positive change in their home countries.",
+      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The programme is aimed at outstanding emerging leaders from all over the world who have ambition, leadership qualities, and a passion for influencing positive change in their home countries.",
       "official_url": "https://www.chevening.org/scholarships/who-can-apply/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:24:48.994505+00:00"
+      "last_checked": "2026-08-26T00:35:39.447011+00:00"
     },
     {
       "id": "c9f19032b4f2356c000e",
       "title": "Chevening Scholarship",
-      "provider": "Foreign, Commonwealth and Development Office (FCDO) and partner organisations",
+      "provider": "Foreign, Commonwealth and Development Office (FCDO)",
       "source": "Chevening",
       "source_type": "official",
       "destination_countries": [
@@ -580,7 +590,7 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master's"
+        "Postgraduate"
       ],
       "fields": [],
       "funding_type": [
@@ -589,11 +599,11 @@
       "deadline": "2026-10-06T11:00:00Z",
       "start_date": "2027-09-01",
       "duration": null,
-      "description": "Chevening Scholarships are the UK government’s global scholarship programme, funded by the Foreign, Commonwealth and Development Office (FCDO) and partner organisations. The awards offer support for future leaders to study for a master's degree in the UK.",
+      "description": "Chevening Scholarships are the UK government’s global scholarship programme, funded by the Foreign, Commonwealth and Development Office (FCDO) and partner organisations, supporting study in the UK.",
       "official_url": "https://www.chevening.org/scholarships/application-timeline/",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:24:54.683244+00:00"
+      "last_checked": "2026-08-26T00:35:46.773554+00:00"
     },
     {
       "id": "15b2845ec047aa846682",
@@ -642,7 +652,7 @@
       "official_url": "https://www.chevening.org/fellowships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:01.144913+00:00"
+      "last_checked": "2026-08-26T00:35:57.392991+00:00"
     },
     {
       "id": "f68a8c9914d211285a8e",
@@ -670,7 +680,7 @@
       "official_url": "https://www.chevening.org/fellowships/find-a-programme/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:06.766361+00:00"
+      "last_checked": "2026-08-26T00:36:02.979937+00:00"
     },
     {
       "id": "ced1d60721e7ca99d230",
@@ -694,7 +704,7 @@
       "official_url": "https://www.chevening.org/fellowships/who-can-apply/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:12.261406+00:00"
+      "last_checked": "2026-08-26T00:36:09.711919+00:00"
     },
     {
       "id": "04ebf5184032620406ae",
@@ -736,12 +746,12 @@
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "One year",
-      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The program is designed for emerging leaders who have ambition, leadership qualities, and a passion for influencing positive change in their home countries.",
+      "duration": "1 year",
+      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The program enables outstanding emerging leaders from all over the world to pursue master's degrees in the UK.",
       "official_url": "https://www.chevening.org/who-can-apply",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:21.882294+00:00"
+      "last_checked": "2026-08-26T00:36:19.985071+00:00"
     },
     {
       "id": "88f98d282f455c930b10",
@@ -754,7 +764,7 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master's degree"
+        "Master's"
       ],
       "fields": [
         "Human rights, democracy, and the rule of law",
@@ -767,12 +777,12 @@
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "One year",
-      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK. It offers standard Chevening Scholarship benefits with an additional enhanced programme including exclusive events and networking opportunities.",
+      "duration": "1 year",
+      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK. It offers standard Chevening Scholarship benefits with additional opportunities including exclusive events and networking.",
       "official_url": "https://www.chevening.org/sids-chevening-scholarship",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:27.470272+00:00"
+      "last_checked": "2026-08-26T00:36:27.560651+00:00"
     },
     {
       "id": "61642fa7eeb0bbb18448",
@@ -893,37 +903,39 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university. Funded by the UK Foreign, Commonwealth & Development Office (FCDO).",
+      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university. Funded by the UK Foreign, Commonwealth & Development Office.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:45.755246+00:00"
+      "last_checked": "2026-08-26T00:36:45.919568+00:00"
     },
     {
       "id": "e380b5fe15691966d0b3",
       "title": "Master’s Scholarships",
-      "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
+      "provider": "Commonwealth Scholarship Commission in the UK",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
         "United Kingdom"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "Commonwealth countries"
+      ],
       "degree_levels": [
         "Master's"
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Master’s Scholarships enable talented and motivated individuals to gain the knowledge and skills required for sustainable development. Candidates are nominated for this award through a nominating agency.",
+      "description": "Master’s Scholarships enable talented and motivated individuals from Commonwealth countries to gain the knowledge and skills required for sustainable development. Candidates are nominated for this award through a nominating agency.",
       "official_url": "https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:25:51.136525+00:00"
+      "last_checked": "2026-08-26T00:36:53.846416+00:00"
     },
     {
       "id": "82818f7bd3e8a2594196",
@@ -936,21 +948,21 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Post-doctoral"
+        "PhD"
       ],
       "fields": [],
       "funding_type": [
-        "Grant",
-        "Prize"
+        "grant",
+        "prize"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The CSC Research Impact Awards (RIA) celebrate the research and publication endeavours of Commonwealth Scholars and Alumni at the early and mid-career researcher stages. Offered in two streams (Research Output and Research Implementation and Uptake), the awards reward published research that addresses global challenges and has impact in a development setting.",
+      "description": "The CSC Research Impact Awards (RIA) celebrate the research and publication endeavours of Commonwealth Scholars and Alumni at the early and mid-career researcher stages. It consists of two streams: The CSC Research Output award for current doctoral scholars and alumni up to 5 years post-thesis, and the Taylor & Francis CSC Research Implementation and Uptake award for alumni 6-10 years post-thesis. Prizes include conference grants and monetary awards.",
       "official_url": "https://cscuk.fcdo.gov.uk/csc-research-impact-awards-2/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:25:57.880200+00:00"
+      "last_checked": "2026-08-26T00:37:00.560705+00:00"
     },
     {
       "id": "897d61d0e9f1dc613eff",
@@ -961,9 +973,7 @@
       "destination_countries": [
         "United Kingdom"
       ],
-      "eligible_countries": [
-        "low and middle income countries"
-      ],
+      "eligible_countries": [],
       "degree_levels": [],
       "fields": [],
       "funding_type": [
@@ -976,7 +986,7 @@
       "official_url": "https://cscuk.fcdo.gov.uk/host-organisations/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:26:03.229516+00:00"
+      "last_checked": "2026-08-26T00:37:07.947697+00:00"
     },
     {
       "id": "a9b2791e809af596837b",
@@ -1076,8 +1086,8 @@
     },
     {
       "id": "c942b346b13edfe354e4",
-      "title": "Commonwealth Fellowship Programme (Professional and Academic)",
-      "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
+      "title": "Commonwealth Fellowships",
+      "provider": "Commonwealth Scholarship Commission in the UK",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -1150,7 +1160,8 @@
         "Turks and Caicos Islands"
       ],
       "degree_levels": [
-        "Postdoctoral"
+        "Professional Development",
+        "Academic Research"
       ],
       "fields": [
         "Science and technology for development",
@@ -1163,19 +1174,19 @@
       "funding_type": [
         "Fellowship"
       ],
-      "deadline": "2026-08-25T16:00:00",
+      "deadline": null,
       "start_date": null,
       "duration": "6 weeks to 3 months",
-      "description": "The Commonwealth Fellowship Programme consists of two strands: Professional Fellowships for mid-career professionals to undertake professional development at a UK host organisation, and Academic Fellowships for academic staff with a PhD to undertake academic skills updates, knowledge exchange, and networking at a UK university.",
+      "description": "The Commonwealth Fellowship Programme features two strands: Professional Fellowships for mid-career professionals and Academic Fellowships for academic staff holding a PhD, designed to provide a period of professional or academic development in the UK with a developmental impact upon return home.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-fellowships-information-for-candidates/",
-      "status": "open",
+      "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:10.914088+00:00"
+      "last_checked": "2026-08-26T00:37:19.825627+00:00"
     },
     {
       "id": "d217440bd76e3cd3fed1",
       "title": "Commonwealth Startup Fellowships",
-      "provider": "Commonwealth Scholarship Commission in the UK",
+      "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -1239,22 +1250,43 @@
       "deadline": "2026-09-01",
       "start_date": "2026-11-16",
       "duration": "6 months",
-      "description": "The Commonwealth Startup Fellowships are designed to ignite and elevate high-potential startups from low and middle income Commonwealth countries. The programme includes immersive in-person experiences (a two-week bootcamp in Accra, Ghana and a weeklong capstone event in London, UK) and online learning to provide entrepreneurs with essential skills and a global network.",
+      "description": "The Commonwealth Startup Fellowships are designed to support high-potential startups from low and middle income Commonwealth countries. The programme includes a combination of immersive in-person experiences (bootcamp in Ghana and capstone events in London) and online learning to help entrepreneurs scale their businesses.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-startup-fellowship-information-for-candidates/",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:17.448650+00:00"
+      "last_checked": "2026-08-26T00:37:29.003084+00:00"
     },
     {
       "id": "67e04fc4fb9576acdea3",
       "title": "Commonwealth Professional Fellowships",
-      "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
+      "provider": "Commonwealth Scholarship Commission in the UK",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
-        "UK"
+        "United Kingdom"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "Anguilla",
+        "Antigua and Barbuda",
+        "Australia",
+        "Bahamas",
+        "Barbados",
+        "Bermuda",
+        "British Virgin Islands",
+        "Brunei Darussalam",
+        "Canada",
+        "Cayman Islands",
+        "Cyprus",
+        "Falkland Islands",
+        "Gibraltar",
+        "Malta",
+        "New Zealand",
+        "Seychelles",
+        "Singapore",
+        "St Kitts and Nevis",
+        "Trinidad and Tobago",
+        "Turks and Caicos Islands"
+      ],
       "degree_levels": [],
       "fields": [
         "Science and technology for development",
@@ -1265,16 +1297,16 @@
         "Access, inclusion and opportunity"
       ],
       "funding_type": [
-        "fellowship"
+        "Fellowship"
       ],
       "deadline": "2026-08-27",
       "start_date": "2027-03",
       "duration": "6 weeks to 3 months",
-      "description": "Commonwealth Professional Fellowships are for mid-career professionals from eligible Commonwealth countries to undertake a programme of professional development at a UK host organisation. The fellowships are designed for individuals with five years of relevant work experience to spend time in the UK working on a programme that will have a developmental impact upon their return home.",
+      "description": "Commonwealth Professional Fellowships are for mid-career professionals from eligible Commonwealth countries to undertake a programme of professional development at a UK host organisation working in their sector.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-professional-fellowships-information-for-uk-host-organisations/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:23.327831+00:00"
+      "last_checked": "2026-08-26T00:37:37.233634+00:00"
     },
     {
       "id": "6304921611cddfdfff50",
@@ -1283,7 +1315,7 @@
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
-        "UK"
+        "United Kingdom"
       ],
       "eligible_countries": [
         "Bangladesh",
@@ -1314,11 +1346,11 @@
       "deadline": "2026-10-20",
       "start_date": "2027-09-01",
       "duration": "36 months",
-      "description": "Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states in the Commonwealth for full-time doctoral study at a UK university, contributing to development needs and research impact.",
+      "description": "Commonwealth PhD Scholarships are for applicants from least developed countries and vulnerable states, as classified by the OECD Development Assistance Committee (DAC), in the Commonwealth, for full-time doctoral study at a UK university. The scholarships contribute to the development needs of Commonwealth countries by supporting research that will have a developmental impact.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-phd-scholarships-for-least-developed-countries-and-vulnerable-states/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:29.207004+00:00"
+      "last_checked": "2026-08-26T00:37:46.832288+00:00"
     },
     {
       "id": "547108af46cc80891ad7",
@@ -1376,22 +1408,21 @@
         "Zambia"
       ],
       "degree_levels": [
-        "Postgraduate"
+        "Postgraduate",
+        "Master's"
       ],
       "fields": [],
       "funding_type": [
-        "tuition waiver",
-        "stipend",
-        "travel grant"
+        "scholarship"
       ],
       "deadline": null,
-      "start_date": "2026-09",
+      "start_date": "2026-09-01",
       "duration": "12 months",
-      "description": "The Commonwealth Shared Scholarship programme is a Master’s programme offered by the Commonwealth Scholarship Commission for students from Least Developed and middle-income countries. It aims to provide training for skilled professionals who have the potential to enhance the development of their home countries.",
+      "description": "The Commonwealth Shared Scholarship programme provides Master’s level funding for students from Least Developed and middle-income Commonwealth countries to study in the UK. The programme is intended for candidates who would not otherwise be able to afford to study in the UK and who have the potential to enhance the development of their home countries.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:38.326654+00:00"
+      "last_checked": "2026-08-26T00:37:54.620367+00:00"
     },
     {
       "id": "4c5f7619f5fe4c3a0598",
@@ -1457,11 +1488,11 @@
       "deadline": "2026-10-20",
       "start_date": "2027-09-01",
       "duration": null,
-      "description": "Commonwealth Master’s Scholarships enable talented and motivated individuals from eligible low and middle income Commonwealth countries to gain the knowledge and skills required for sustainable development through full-time taught Master’s study at a UK university.",
+      "description": "Commonwealth Master’s Scholarships enable talented and motivated individuals from eligible low and middle income Commonwealth countries to gain the knowledge and skills required for sustainable development through full-time taught Master’s study at a UK university. The scholarship covers approved airfare, full tuition fees, a monthly stipend, a study travel grant, and potential child allowances.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-masters-scholarships/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:26:44.734517+00:00"
+      "last_checked": "2026-08-26T00:38:02.566798+00:00"
     },
     {
       "id": "fefe5c31c35b95ee82d4",
@@ -1483,16 +1514,16 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is an international postgraduate award for study at the University of Oxford. It enables outstanding young people from around the world to undertake full-time postgraduate study.",
+      "description": "The Rhodes Scholarship is a postgraduate award for students from around the world to undertake full-time postgraduate study at the University of Oxford.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:50.103169+00:00"
+      "last_checked": "2026-08-26T00:39:15.720677+00:00"
     },
     {
       "id": "fe81bc5aab37213a78d1",
       "title": "Rhodes Scholarship",
-      "provider": "The Rhodes Trust",
+      "provider": "Rhodes Trust",
       "source": "Rhodes Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -1509,11 +1540,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is a postgraduate award for study at the University of Oxford, based on criteria including academic excellence, energy to use one's talents to the full, truth, courage, devotion to duty, and moral force of character.",
+      "description": "The Rhodes Scholarship is a postgraduate scholarship enabling outstanding young people from around the world to undertake full-time postgraduate study at the University of Oxford. Selection is based on literary and scholastic attainments, energy to use one's talents to the full, truth, courage, devotion to duty, sympathy for and protection of the weak, kindliness, unselfishness and fellowship, and moral force of character and instincts to lead.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/selection-criteria/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:14.265182+00:00"
+      "last_checked": "2026-08-26T00:38:30.209993+00:00"
     },
     {
       "id": "6c08781642519bdd58c5",
@@ -1535,11 +1566,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is a postgraduate award for students from around the world to undertake full-time postgraduate study at the University of Oxford.",
+      "description": "The Rhodes Scholarship is the oldest international scholarship programme in the world, enabling outstanding young people from around the world to undertake full-time postgraduate study at the University of Oxford.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:19.893378+00:00"
+      "last_checked": "2026-08-26T00:38:35.560749+00:00"
     },
     {
       "id": "cf3e3bcc63966e9ac2e1",
@@ -1561,11 +1592,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is the oldest international scholarship programme in the world, enabling outstanding young people from around the world to undertake full-time postgraduate study at the University of Oxford.",
+      "description": "The Rhodes Scholarship is a postgraduate award for students from around the world to undertake full-time postgraduate study at the University of Oxford.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/information-sessions/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:30.918033+00:00"
+      "last_checked": "2026-08-26T00:38:47.304488+00:00"
     },
     {
       "id": "d7a2343b8f15cbc25c00",
@@ -1578,20 +1609,20 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "postgraduate"
+        "Postgraduate"
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": "2 years",
-      "description": "The Rhodes Scholarship is a fully funded, full-time postgraduate award which enables talented young people from around the world to study at the University of Oxford. It covers Oxford University course fees, as well as providing an annual stipend for living expenses. The basic tenure for the scholarship is two years.",
+      "description": "The Rhodes Scholarship is a fully funded, full-time postgraduate award which enables talented young people from around the world to study at the University of Oxford. It covers Oxford University course fees, as well as providing an annual stipend for living expenses.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:25.524497+00:00"
+      "last_checked": "2026-08-26T00:38:41.821518+00:00"
     },
     {
       "id": "ad240fa04ee693b48958",
@@ -1668,11 +1699,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is a postgraduate award for study at the University of Oxford. This page specifically outlines the institutional certification/endorsement process for applicants from Canada and the United States.",
+      "description": "The Rhodes Scholarship is a merit-based postgraduate scholarship for study at the University of Oxford. This page specifically outlines the institutional certification and endorsement requirements for applicants from the Canada and United States constituencies.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/institutional-certifications-endorsements/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:27:55.874039+00:00"
+      "last_checked": "2026-08-26T00:39:10.156380+00:00"
     },
     {
       "id": "c8bf31ae4c74a74e782a",
@@ -1779,8 +1810,8 @@
     },
     {
       "id": "a15a5e8218d7d1673dbb",
-      "title": "Rhodes Scholarship",
-      "provider": "Rhodes Trust",
+      "title": "The Rhodes Scholarship",
+      "provider": "The Rhodes Trust",
       "source": "Rhodes Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -1788,20 +1819,22 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "postgraduate"
+        "Postgraduate"
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Tuition waiver",
+        "Stipend",
+        "Travel allowance"
       ],
       "deadline": null,
-      "start_date": null,
-      "duration": null,
-      "description": "The Rhodes Scholarship is a postgraduate award for study at the University of Oxford, enabling outstanding young people from around the world to undertake full-time postgraduate study.",
+      "start_date": "2027-10",
+      "duration": "Two or more years",
+      "description": "The Rhodes Scholarship is a fully-funded postgraduate award for study at the University of Oxford. It covers course fees, an annual stipend for living expenses, the Oxford application fee, student visa fees, the International Health Surcharge, and two economy class flights to/from the UK.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:28:02.108769+00:00"
+      "last_checked": "2026-08-26T00:38:24.653221+00:00"
     },
     {
       "id": "2161d0f7c4da10e5bac0",
@@ -1936,11 +1969,11 @@
       "deadline": null,
       "start_date": "2027-09-01",
       "duration": "Maximum of 12 months",
-      "description": "The Swiss Government Excellence Research Fellowship enables selected applicants to carry out a one-year research project as part of their doctoral studies at a Swiss higher education institution or recognised research institute. It is intended for highly qualified early-career researchers.",
+      "description": "The Swiss Government Excellence Research Fellowship enables selected applicants to carry out a one-year research project as part of their doctoral studies at a Swiss higher education institution or recognised research institute.",
       "official_url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships-at-a-glance#Research-scholarships",
-      "status": "open",
+      "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:28:14.736202+00:00"
+      "last_checked": "2026-08-26T00:39:28.301316+00:00"
     },
     {
       "id": "5c21865966ad757ad726",
@@ -2155,8 +2188,8 @@
     },
     {
       "id": "9239fbc53551e3c5923f",
-      "title": "Swiss Government Excellence Scholarships 2027 – 2028",
-      "provider": "Federal Commission for Scholarships for Foreign Students (FCS/ESKAS)",
+      "title": "Swiss Government Excellence Scholarships",
+      "provider": "Federal Commission for Scholarships for Foreign Students (FCS)",
       "source": "Swiss Government Excellence Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -2166,24 +2199,21 @@
       "degree_levels": [
         "Master",
         "Postgraduate",
-        "PhD"
+        "Research"
       ],
-      "fields": [
-        "Any discipline",
-        "Artistic fields"
-      ],
+      "fields": [],
       "funding_type": [
-        "Scholarship",
-        "Fellowship"
+        "scholarship",
+        "fellowship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Swiss Government Excellence Scholarships are awarded to encourage international exchange and research cooperation. Programs include Research scholarships for postgraduate researchers and Art scholarships for students pursuing an initial Master’s degree in an artistic field. Funding includes approximately CHF 2450 per month.",
+      "description": "The Swiss Government Excellence Scholarships are awarded to encourage international exchange and research cooperation. Programs include Research Scholarships for early career researchers who have completed a Master's degree and Art Scholarships for students pursuing an initial Master's degree in an artistic field.",
       "official_url": "https://www.sbfi.admin.ch/en/swiss-government-excellence-scholarships",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:28:08.628769+00:00"
+      "last_checked": "2026-08-26T00:39:22.651798+00:00"
     },
     {
       "id": "520c61a8797df04f59f2",
@@ -2197,7 +2227,7 @@
       "eligible_countries": [],
       "degree_levels": [
         "PhD",
-        "Research"
+        "Postdoctoral"
       ],
       "fields": [],
       "funding_type": [
@@ -2205,12 +2235,12 @@
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "12-36 months",
-      "description": "The Swiss Confederation awards Government Excellence Scholarships to encourage international exchange and research cooperation between Switzerland and over 180 other countries. The scholarships support doctoral students and researchers.",
+      "duration": null,
+      "description": "The Swiss Confederation awards Government Excellence Scholarships to encourage international exchange and research cooperation between Switzerland and over 180 other countries. The scholarships support doctoral and research projects.",
       "official_url": "https://www.sbfi.admin.ch/en/faq-swiss-government-excellence-scholarships",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:28:20.256675+00:00"
+      "last_checked": "2026-08-26T00:39:34.711924+00:00"
     },
     {
       "id": "849b6baed6127ba00161",
@@ -2264,7 +2294,7 @@
       "official_url": "https://si.se/en/apply/scholarships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:30:28.991299+00:00"
+      "last_checked": "2026-08-26T00:41:42.964155+00:00"
     },
     {
       "id": "ea1b0f760117f1a18f45",
@@ -2277,26 +2307,29 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master's"
+        "Master"
       ],
       "fields": [
-        "STEM",
+        "Science",
+        "Technology",
+        "Engineering",
+        "Mathematics",
         "Innovation",
         "Entrepreneurship",
         "Public health",
         "Governance"
       ],
       "funding_type": [
-        "Fully funded"
+        "Fully funded scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The SI Scholarship for Global Professionals is aimed at professionals with work and leadership experience, focusing on STEM, innovation, entrepreneurship, public health, and governance, to strengthen their capacity to contribute to the sustainable development of their home countries.",
+      "description": "The SI Scholarship for Global Professionals is awarded to professionals with work and leadership experience to support master's studies at Swedish universities, focusing on STEM, innovation, entrepreneurship, public health, and governance to contribute to sustainable development in their home countries.",
       "official_url": "https://si.se/en/232-international-students-receive-the-si-scholarships/",
-      "status": "unknown",
+      "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:30:40.389584+00:00"
+      "last_checked": "2026-08-26T00:41:54.069308+00:00"
     },
     {
       "id": "a392343281af00f0dacc",
@@ -2354,7 +2387,7 @@
     {
       "id": "a262f768cc3ee68e26a3",
       "title": "Pioneering Women in STEM",
-      "provider": "Swedish Institute",
+      "provider": "Swedish Institute (SI)",
       "source": "Swedish Institute",
       "source_type": "official",
       "destination_countries": [
@@ -2382,18 +2415,18 @@
         "Mathematics"
       ],
       "funding_type": [
-        "tuition waiver",
-        "stipend",
-        "travel grant"
+        "Full tuition fee coverage",
+        "Monthly allowance",
+        "Travel grant"
       ],
       "deadline": "2026-02-25",
       "start_date": null,
       "duration": "1-2 years",
-      "description": "A competitive, fully-funded scholarship for women from selected countries in Africa and Asia to pursue full-time, master's studies in STEM subjects at Swedish universities. The scholarship covers full tuition fees, a monthly living allowance of SEK 12,000, and a one-time travel grant of SEK 15,000.",
+      "description": "The Pioneering Women in STEM scholarship supports women from selected countries in Africa and Asia who want to lead innovation and contribute to inclusive and sustainable societies through master's studies in STEM fields at Swedish universities.",
       "official_url": "https://si.se/en/apply/scholarships/pioneeringwomeninstem/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:31:00.989185+00:00"
+      "last_checked": "2026-08-26T00:42:06.114326+00:00"
     },
     {
       "id": "fe44a3faa7ab4760f5c8",
@@ -2451,22 +2484,22 @@
       ],
       "funding_type": [
         "tuition waiver",
-        "stipend",
+        "monthly allowance",
         "travel grant"
       ],
       "deadline": "2026-02-25",
       "start_date": null,
       "duration": "one- or two-year",
-      "description": "The SI Scholarship for Global Professionals is a fully-funded scholarship for master's studies in Sweden. It includes full tuition fee coverage, a monthly allowance for living expenses, and a travel grant. Recipients also gain access to the SI Network for Global Professionals.",
+      "description": "A fully-funded scholarship for master’s studies in Sweden for global professionals. It covers full tuition fees, a monthly allowance for living expenses, and a travel grant. It also includes membership in the SI Network for Global Professionals.",
       "official_url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:30:54.860091+00:00"
+      "last_checked": "2026-08-26T00:42:00.114867+00:00"
     },
     {
       "id": "5baedaa1734fe9da48e3",
-      "title": "France Excellence Eiffel",
-      "provider": "French Ministry for Europe and Foreign Affairs",
+      "title": "France Excellence Eiffel scholarship program",
+      "provider": "French Foreign Ministry",
       "source": "Eiffel Excellence Scholarship",
       "source_type": "official",
       "destination_countries": [
@@ -2474,8 +2507,8 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master",
-        "Doctorate"
+        "Master's",
+        "Doctoral"
       ],
       "fields": [],
       "funding_type": [
@@ -2484,11 +2517,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The France Excellence Eiffel scholarship programme is aimed at international students for Master's or Doctoral level studies in France.",
+      "description": "The France Excellence Eiffel scholarship program is intended for international students at Master's or Doctoral level studies, financed by the French Foreign Ministry.",
       "official_url": "http://www.campusfrance.org/en/eiffel",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:31:16.938794+00:00"
+      "last_checked": "2026-08-26T00:42:28.209649+00:00"
     },
     {
       "id": "481dce5f641e8b6ad022",
@@ -2515,7 +2548,7 @@
       "official_url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:31:10.831762+00:00"
+      "last_checked": "2026-08-26T00:42:22.852399+00:00"
     },
     {
       "id": "55ced32933dad3542670",
@@ -2538,16 +2571,16 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The France Excellence Eiffel scholarship program is a prestigious award provided by the French Ministry for Europe and Foreign Affairs to support international students selected by French institutions to pursue Master's or Doctoral level studies in France. The scholarship includes a monthly living allowance, coverage of certain travel expenses, and health insurance, among other benefits.",
+      "description": "The France Excellence Eiffel scholarship program is a tool developed by the Ministry for Europe and Foreign Affairs to allow French higher education institutions to attract top foreign students to enroll in their master's and PhD programs. It covers a monthly living allowance, tuition exemption, and travel expenses.",
       "official_url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-implementation",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:31:33.815948+00:00"
+      "last_checked": "2026-08-26T00:42:35.956494+00:00"
     },
     {
       "id": "6d940486fafe7147022e",
       "title": "MOPGA 2025: Visiting Fellowship Program for early career researchers",
-      "provider": "French Ministry for Europe and Foreign Affairs and French Ministry for Higher Education and Research",
+      "provider": "French Ministry for Europe and Foreign Affairs, French Ministry for Higher Education and Research",
       "source": "Eiffel Excellence Scholarship",
       "source_type": "official",
       "destination_countries": [
@@ -2562,24 +2595,24 @@
         "Climate change and sustainability",
         "Energy transition",
         "Societal challenges of environmental issues",
-        "Human, animal and ecosystem health (One Health approach)"
+        "Human, animal and ecosystem health (One Health)"
       ],
       "funding_type": [
-        "Fellowship"
+        "fellowship"
       ],
       "deadline": "2024-12-05",
-      "start_date": "2025-09-01",
+      "start_date": "2025-09",
       "duration": "12 months",
-      "description": "The Make Our Planet Great Again (MOPGA) visiting fellowship program supports early career researchers (holding a doctoral degree for less than 5 years) to carry out research in France on topics related to climate change and environmental issues. The fellowship includes a monthly allowance of 2,500 euros, a moving allowance, and health insurance.",
+      "description": "The Make Our Planet Great Again (MOPGA) 2025 Visiting Fellowship Program for early career researchers is an initiative to support researchers holding a doctoral degree for less than 5 years who wish to carry out research in France in the fields of Earth systems, climate change, energy transition, environmental societal challenges, or One Health approaches.",
       "official_url": "https://www.campusfrance.org/en/mopga-2025",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-19T14:14:36.211625+00:00"
+      "last_checked": "2026-08-26T00:42:41.690579+00:00"
     },
     {
       "id": "495a09675d9dec7afecb",
       "title": "Government of Ireland International Education Scholarship (GOI-IES)",
-      "provider": "Higher Education Authority (HEA)",
+      "provider": "Higher Education Authority",
       "source": "Government of Ireland International Education Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -2588,7 +2621,7 @@
       "eligible_countries": [],
       "degree_levels": [
         "Master's",
-        "Postgraduate diploma",
+        "Postgraduate Diploma",
         "PhD"
       ],
       "fields": [],
@@ -2599,15 +2632,15 @@
       "deadline": "2026-03-12T17:00:00",
       "start_date": null,
       "duration": "1 year",
-      "description": "The Government of Ireland International Education Scholarship programme supports high-calibre international students for one year of full-time study at NFQ levels 9 or 10. The scholarship includes a €10,000 stipend and a full fee waiver from the host institution.",
+      "description": "The Government of Ireland International Education Scholarship (GOI-IES) programme supports 60 high-calibre international students annually for one year of full-time study at NFQ levels 9 or 10. The scholarship includes a €10,000 stipend and a full fee waiver from the host institution.",
       "official_url": "https://hea.ie/policy/internationalisation/goi-ies/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:31:56.450031+00:00"
+      "last_checked": "2026-08-26T00:43:03.049779+00:00"
     },
     {
       "id": "057250e9a415fca0fec7",
-      "title": "Student Universal Support Ireland (SUSI) Grant",
+      "title": "Student Universal Support Ireland (SUSI) Grants",
       "provider": "Student Universal Support Ireland (SUSI)",
       "source": "Government of Ireland International Education Scholarships",
       "source_type": "official",
@@ -2623,28 +2656,27 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "SUSI is Ireland’s single national awarding authority for all higher and further education grants. Support is available to eligible students in approved full-time third-level education in Ireland and, in some cases, for students studying outside of Ireland.",
+      "description": "SUSI is Ireland’s single national awarding authority for all higher and further education grants. It offers funding to eligible students in approved full-time third-level education in Ireland and, in some cases, funding for students studying outside of Ireland. Support is available to various types of students, including school leavers and mature students.",
       "official_url": "https://susi.ie",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:32:08.321990+00:00"
+      "last_checked": "2026-08-26T00:43:14.371712+00:00"
     },
     {
       "id": "f7a14b827eef9d908f23",
       "title": "Fund for Students with Disabilities (FSD)",
-      "provider": "Higher Education Authority",
+      "provider": "Higher Education Authority (HEA)",
       "source": "Government of Ireland International Education Scholarships",
       "source_type": "official",
       "destination_countries": [
         "Ireland",
         "EU Member States",
-        "United Kingdom",
-        "Switzerland"
+        "United Kingdom"
       ],
       "eligible_countries": [
         "Ireland",
         "EU Member States",
-        "EEA",
+        "EEA Member States",
         "United Kingdom",
         "Switzerland"
       ],
@@ -2656,16 +2688,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "Grant"
+        "grant"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Fund for Students with Disabilities (FSD) assists higher education institutions in ensuring students with disabilities have the necessary assistance and equipment to enable them to access, fully participate in, and successfully complete their chosen course of study. Funding is provided to the institution to support eligible students, rather than being paid directly to the individual student.",
+      "description": "The Fund for Students with Disabilities (FSD) assists higher education institutions in ensuring students with disabilities have the necessary assistance and equipment to enable them to access, fully participate in, and successfully complete their chosen course of study. Funding is allocated to the college to provide supports such as assistive technology, non-medical helpers, academic/learning support, and transport support.",
       "official_url": "https://hea.ie/funding-governance-performance/funding/student-finance/fund-for-students-with-disabilities/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:32:14.112579+00:00"
+      "last_checked": "2026-08-26T00:43:20.439927+00:00"
     },
     {
       "id": "36b79b5a8e186254d685",
@@ -2827,8 +2859,8 @@
       "description": "The Fulbright Foreign Student Program enables graduate students, young professionals, and artists from abroad to research and study in the United States.",
       "official_url": "https://foreign.fulbrightonline.org/",
       "status": "unknown",
-      "listing_type": "program",
-      "last_checked": "2026-08-25T12:33:02.119101+00:00"
+      "listing_type": "funding_page",
+      "last_checked": "2026-08-26T00:43:43.137850+00:00"
     },
     {
       "id": "99507e2dcd72be867d02",
@@ -3090,7 +3122,8 @@
       "eligible_countries": [],
       "degree_levels": [
         "Undergraduate",
-        "Graduate",
+        "Master",
+        "Doctoral",
         "Professional"
       ],
       "fields": [],
@@ -3101,11 +3134,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Japanese Government (MEXT) Scholarship program offers seven types of scholarships: Research students, Teacher training students, Undergraduate students, Japanese studies students, college of technology students, Specialized training college students, and Young Leaders Program (YLP) students. Application is possible via embassy recommendation or university recommendation.",
+      "description": "The Japanese Government (MEXT) Scholarship program offers seven types of scholarships: Research students, Teacher training students, Undergraduate students, Japanese studies students, College of technology students, Specialized training college students, and Young Leaders Program (YLP) students. Application is possible via embassy recommendation or university recommendation.",
       "official_url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:33:16.519716+00:00"
+      "last_checked": "2026-08-26T00:43:56.285045+00:00"
     },
     {
       "id": "721984439d4a2653563c",
@@ -3479,7 +3512,7 @@
     {
       "id": "06bb351df51f1f30963c",
       "title": "Türkiye Scholarships",
-      "provider": "Presidency for Turks Abroad and Related Communities (YTB)",
+      "provider": "Government of Türkiye (YTB)",
       "source": "Türkiye Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -3487,9 +3520,9 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Associate",
-        "Bachelor’s",
-        "Master’s",
+        "Associate Degree",
+        "Bachelor’s Degree",
+        "Master’s Degree",
         "PhD",
         "Research"
       ],
@@ -3497,19 +3530,19 @@
       "funding_type": [
         "Monthly Stipend",
         "Accommodation",
-        "Tuition",
-        "Language Course",
+        "Tuition Fee",
         "Health Insurance",
-        "Flight Ticket"
+        "Flight Ticket",
+        "Turkish Language Course"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Türkiye Scholarships is a comprehensive, merit-based scholarship program for international students offering full-time and short-term education opportunities at prestigious Turkish universities, including university placement, financial support, and cultural integration.",
+      "description": "Türkiye Scholarships is a competitive, merit-based government-funded scholarship program awarded to outstanding students and researchers to pursue full-time or short-term programs at the most prestigious universities in Türkiye.",
       "official_url": "https://www.turkiyeburslari.gov.tr/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:34:26.225998+00:00"
+      "last_checked": "2026-08-26T00:44:58.659458+00:00"
     },
     {
       "id": "1144991c2a5753a06173",
@@ -3523,14 +3556,13 @@
       "eligible_countries": [],
       "degree_levels": [
         "Undergraduate",
-        "Master",
+        "Master's",
         "PhD"
       ],
       "fields": [],
       "funding_type": [
-        "Full Scholarship",
-        "Tuition waiver",
         "Monthly stipend",
+        "Tuition fee coverage",
         "Health insurance",
         "Accommodation",
         "Turkish language course",
@@ -3539,11 +3571,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Türkiye Scholarships is a government-funded higher education scholarship program for international students, offering university and department placement, monthly stipends, tuition fees, health insurance, accommodation, and Turkish language courses.",
+      "description": "Türkiye Scholarships is a government-funded higher education scholarship program for international students, offering university and department placement, financial support, and academic/cultural programs.",
       "official_url": "https://www.turkiyeburslari.gov.tr/about",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:34:32.274723+00:00"
+      "last_checked": "2026-08-26T00:45:04.175874+00:00"
     },
     {
       "id": "62e975a75b222bdc0731",
@@ -3557,27 +3589,26 @@
       "eligible_countries": [],
       "degree_levels": [
         "Associate",
-        "Bachelor’s",
+        "Bachelor's",
         "Master's",
         "PhD"
       ],
       "fields": [],
       "funding_type": [
-        "tuition fee",
-        "monthly stipend",
+        "tuition waiver",
+        "stipend",
         "accommodation",
         "health insurance",
-        "flight ticket",
-        "language course"
+        "travel grant"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "A comprehensive, fully funded scholarship program for international students in Türkiye, covering tuition, accommodation, a monthly stipend, health insurance, a one-time flight ticket, and a 1-year Turkish language course.",
+      "description": "A comprehensive, fully funded scholarship program for international students in Türkiye, covering university and department placements, tuition fees, 1-year Turkish language course, accommodation, once-off flight tickets, health insurance, and a monthly stipend.",
       "official_url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:34:38.066856+00:00"
+      "last_checked": "2026-08-26T00:45:09.737860+00:00"
     },
     {
       "id": "c8827272c9ca59671603",
@@ -3597,16 +3628,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Türkiye Scholarships offers various scholarship programs ranging from long-term bachelor's, master's, and PhD scholarships to short-term research and merit-based scholarships, as well as art and joint scholarship programs.",
+      "description": "Türkiye Scholarships is a government-funded, competitive scholarship program, awarded to outstanding students and researchers to pursue full-time or short-term programs at top universities in Türkiye.",
       "official_url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:34:43.507072+00:00"
+      "last_checked": "2026-08-26T00:45:15.378001+00:00"
     },
     {
       "id": "994f5f8e74f4b7cba7f3",
@@ -3646,7 +3677,10 @@
       "destination_countries": [
         "Türkiye"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "IsDB member countries",
+        "Muslim communities in other countries"
+      ],
       "degree_levels": [
         "Associate",
         "Bachelor",
@@ -3659,17 +3693,17 @@
         "accommodation support",
         "tuition fees",
         "health insurance",
-        "Turkish language course",
+        "one-year Turkish language course",
         "round-trip airfare"
       ],
       "deadline": "2026-02-20",
       "start_date": null,
       "duration": null,
-      "description": "The Türkiye Scholarships – IsDB Joint Scholarship Program is co-funded by the Presidency for Turks Abroad and Related Communities (YTB) and the Islamic Development Bank (IsDB). The program aims to enable high-achieving students from IsDB member countries and Muslim communities living in other countries to receive education in Türkiye.",
+      "description": "The Türkiye Scholarships – IsDB Joint Scholarship Program is co-funded by YTB and the Islamic Development Bank to support high-achieving students from IsDB member countries and Muslim communities in fields aligned with Sustainable Development Goals.",
       "official_url": "https://www.turkiyeburslari.gov.tr/announcements/ytb-islamic-development-bank-isdb-joint-scholarship-program-2026-applicaiton-period-122",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:34:50.947242+00:00"
+      "last_checked": "2026-08-26T00:45:22.941534+00:00"
     },
     {
       "id": "c591c874726e40175d11",
@@ -3680,31 +3714,28 @@
       "destination_countries": [
         "Türkiye"
       ],
-      "eligible_countries": [
-        "International"
-      ],
+      "eligible_countries": [],
       "degree_levels": [
-        "Associate",
-        "Bachelor",
-        "Master",
-        "Doctoral"
+        "associate",
+        "bachelor’s",
+        "master’s",
+        "doctoral"
       ],
       "fields": [],
       "funding_type": [
-        "Financial support",
-        "Tuition fee",
-        "Accommodation",
-        "Health insurance",
-        "University placement"
+        "tuition fee",
+        "accommodation",
+        "health insurance",
+        "stipend"
       ],
       "deadline": "2026-02-20",
       "start_date": null,
       "duration": null,
-      "description": "Türkiye Scholarships is a government-funded, competitive scholarship program, awarded to outstanding students and researchers to pursue full-time or short-term programs at the top universities in Türkiye. The scholarship includes financial support, tuition fees, accommodation, and health insurance.",
+      "description": "Türkiye Scholarships is a government-funded, competitive scholarship program, awarded to outstanding students and researchers to pursue full-time or short-term programs at top universities in Türkiye. It provides financial support, tuition fee coverage, accommodation, health insurance, university placement, and academic, social, and cultural facilities.",
       "official_url": "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:34:56.624502+00:00"
+      "last_checked": "2026-08-26T00:45:28.626972+00:00"
     },
     {
       "id": "51b6c95f7266d6b5c8f3",
@@ -3720,17 +3751,15 @@
         "Higher Education"
       ],
       "fields": [],
-      "funding_type": [
-        "Training program"
-      ],
+      "funding_type": [],
       "deadline": "2021-10-10",
       "start_date": null,
       "duration": null,
-      "description": "The International Student Academy is a set of programs aimed at strengthening the academic, social and cultural lives of international students studying at higher education institutions in Türkiye. The program consists of Seminar Programs, Specialization Programs, Cultural and Art Programs, and Online Programs.",
+      "description": "The International Student Academy consists of programs aimed at strengthening the academic, social, and cultural lives of international students through Seminar Programs, Specialization Programs, Cultural and Art Programs, and Online Programs.",
       "official_url": "https://www.turkiyeburslari.gov.tr/FAQ/Category/7?q=28",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-22T00:44:25.471805+00:00"
+      "last_checked": "2026-08-26T00:45:40.129733+00:00"
     },
     {
       "id": "b0099ff6ac25ba08e431",
@@ -3779,11 +3808,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Manaaki New Zealand Scholarships help build prosperity, security, and sustainable growth in partner countries, offering full academic scholarships for undergraduate and postgraduate study, as well as short-term training scholarships.",
+      "description": "Manaaki New Zealand Scholarships provide funding for international students to pursue undergraduate and postgraduate study in New Zealand to build prosperity, security, and sustainable growth in partner countries.",
       "official_url": "https://www.nzscholarships.govt.nz/",
       "status": "unknown",
-      "listing_type": "program",
-      "last_checked": "2026-08-25T12:35:57.043333+00:00"
+      "listing_type": "funding_page",
+      "last_checked": "2026-08-26T00:46:26.910480+00:00"
     },
     {
       "id": "5b9f407ac1db20d4a787",
@@ -3806,21 +3835,20 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Manaaki New Zealand Scholarships provide full academic scholarships for undergraduate and postgraduate study in New Zealand, aiming to provide skills and knowledge to help recipients' home countries achieve development needs.",
+      "description": "Manaaki New Zealand Scholarships are offered by the New Zealand Government for international tertiary students. The scholarships include full academic scholarships and short-term training opportunities, aiming to provide a world-class education that relates to the student's home country's human resource and development needs.",
       "official_url": "https://www.nzscholarships.govt.nz/why-study-in-new-zealand/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:36:02.707153+00:00"
+      "last_checked": "2026-08-26T00:46:32.516194+00:00"
     },
     {
       "id": "582abd995e606810c4a4",
       "title": "Manaaki New Zealand Scholarships",
-      "provider": "New Zealand Government",
+      "provider": "New Zealand government",
       "source": "New Zealand Scholarships",
       "source_type": "official",
       "destination_countries": [
-        "New Zealand",
-        "Pacific"
+        "New Zealand"
       ],
       "eligible_countries": [],
       "degree_levels": [
@@ -3834,11 +3862,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Full tertiary scholarships for eligible international students from developing countries to study fulltime at a New Zealand or Pacific education institution.",
+      "description": "The New Zealand government offers scholarships to eligible citizens from developing countries to study abroad at a New Zealand or Pacific education institution. Available types include full tertiary scholarships for undergraduate and postgraduate study, vocational short term training, thematic short term cohort training, and English language training for officials.",
       "official_url": "https://www.nzscholarships.govt.nz/types-of-manaaki-scholarships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:36:08.948826+00:00"
+      "last_checked": "2026-08-26T00:46:38.127542+00:00"
     },
     {
       "id": "4a2153396c1650345b4c",
@@ -3861,11 +3889,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Manaaki New Zealand Scholarship Programme provides funding for international students from eligible regions and countries to pursue undergraduate and postgraduate study in New Zealand at universities or institutes of technology.",
+      "description": "The Manaaki New Zealand Scholarship Programme offers scholarships for international students to undertake undergraduate and postgraduate study in New Zealand at one of eight universities or three institutes of technology.",
       "official_url": "https://www.nzscholarships.govt.nz/international-tertiary-students/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:36:14.609274+00:00"
+      "last_checked": "2026-08-26T00:46:43.616775+00:00"
     },
     {
       "id": "f5d17df7628e8ae57af4",
@@ -3948,14 +3976,13 @@
         "Venezuela"
       ],
       "degree_levels": [
-        "Professional training"
+        "Professional Training"
       ],
       "fields": [
         "Governance",
         "Public Sector Leadership",
         "Public Health Management",
         "Trade Policy",
-        "Good Governance",
         "Diplomatic Training",
         "Climate Change and Resilience",
         "Renewable Energy Project Management",
@@ -3963,16 +3990,16 @@
         "Food and Agribusiness Value Chains"
       ],
       "funding_type": [
-        "Scholarship"
+        "Short-term training scholarship"
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "2-4 weeks",
-      "description": "Short professional training courses for mid and senior level professionals from eligible countries to build knowledge and skills, sharing New Zealand's expertise. Courses are delivered by reputable education institutions in New Zealand or online.",
+      "duration": "2 to 4 weeks",
+      "description": "Thematic Short Term Training Scholarships fund skills training for mid and senior level professionals from eligible countries. Courses are designed to share New Zealand's experiences and expertise in specific sectors and are delivered by reputable education institutions in New Zealand or online.",
       "official_url": "https://www.nzscholarships.govt.nz/thematic-short-term-training-scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:36:21.497363+00:00"
+      "last_checked": "2026-08-26T00:47:00.931173+00:00"
     },
     {
       "id": "b2b07870a430355bed5d",
@@ -4003,13 +4030,15 @@
         "Vanuatu",
         "Wallis and Futuna"
       ],
-      "degree_levels": [],
+      "degree_levels": [
+        "Vocational"
+      ],
       "fields": [
         "Climate Change and Resilience",
         "Disaster Risk Management",
         "Food Security and Agriculture",
         "Renewable energy",
-        "Good Governance",
+        "Governance",
         "Law and Justice",
         "Economic Resilience",
         "Information Communications Technology",
@@ -4018,18 +4047,18 @@
       ],
       "funding_type": [
         "tuition fees",
+        "training-related costs",
         "stipend",
-        "travel costs",
-        "training-related costs"
+        "travel costs"
       ],
       "deadline": null,
       "start_date": null,
       "duration": "1 week to 12 months",
-      "description": "The New Zealand Government offers Vocational Short Term Training Scholarships to fund skills training and work experience for professionals from eligible countries. Successful applicants can undertake a training course with a New Zealand certified training provider, a work placement, or participate in an online or in-country training course.",
+      "description": "The New Zealand Government offers Vocational Short Term Training Scholarships to fund skills training and work experience for professionals from eligible countries to support social and economic development. Successful applicants may undertake a training course with a certified provider, a work placement, or participate in online or in-country training.",
       "official_url": "https://www.nzscholarships.govt.nz/vocational-short-term-scholarships/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:36:27.893413+00:00"
+      "last_checked": "2026-08-26T00:47:07.335942+00:00"
     },
     {
       "id": "f3398fa7e3543ab9e7f3",
@@ -4064,7 +4093,7 @@
         "Guinea",
         "Guinea Bissau",
         "Madagascar",
-        "Maki",
+        "Mali",
         "Mauritania",
         "Morocco",
         "Mozambique",
@@ -4077,12 +4106,7 @@
       ],
       "degree_levels": [],
       "fields": [
-        "English language",
-        "Agriculture and trade",
-        "Strengthening resilience",
-        "Renewable energy",
-        "Education",
-        "Good governance"
+        "English language training"
       ],
       "funding_type": [
         "Scholarship"
@@ -4090,11 +4114,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "10 weeks",
-      "description": "The New Zealand Government offers Manaaki New Zealand Scholarships for government officials from eligible African and Asian countries to come to New Zealand for English language training. The program is nomination-based via New Zealand Embassies or High Commissions.",
+      "description": "The New Zealand Government offers Manaaki New Zealand Scholarships for English language training for government officials from eligible African and Asian countries. The program focuses on improving English language skills and building professional links.",
       "official_url": "https://www.nzscholarships.govt.nz/english-language-training-for-officials-scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:36:33.995948+00:00"
+      "last_checked": "2026-08-26T00:47:14.334666+00:00"
     },
     {
       "id": "1cc8d2713d72020b7032",
@@ -4108,15 +4132,11 @@
       ],
       "eligible_countries": [
         "Fiji",
-        "New Caledonia",
-        "French Polynesia",
-        "Wallis and Futuna",
+        "French Pacific",
         "Kiribati",
         "Naoero",
         "Niue",
-        "Federated States of Micronesia",
-        "Palau",
-        "Marshall Islands",
+        "North Pacific",
         "Papua New Guinea",
         "Samoa",
         "Solomon Islands",
@@ -4137,7 +4157,7 @@
         "Undergraduate",
         "Postgraduate Certificate",
         "Postgraduate Diploma",
-        "Master’s Degree",
+        "Master's Degree",
         "PhD"
       ],
       "fields": [],
@@ -4147,11 +4167,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Manaaki New Zealand Scholarship Programme provides funding for citizens from eligible countries in the Pacific and Asia to study at tertiary education institutes in New Zealand or the Pacific.",
+      "description": "The Manaaki New Zealand Scholarship Programme provides funding for citizens from eligible countries in the Pacific and Asia to study in New Zealand or at selected Pacific universities. The program includes undergraduate and postgraduate options, with specific eligibility criteria varying by country.",
       "official_url": "https://www.nzscholarships.govt.nz/check-eligible-countries/",
       "status": "closed",
-      "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:36:40.517554+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-08-26T00:47:26.632560+00:00"
     },
     {
       "id": "3857e320da0299cdc381",
@@ -4173,11 +4193,11 @@
       "deadline": "2026-09-04",
       "start_date": null,
       "duration": null,
-      "description": "The Samoa Foundation scholarship is offered by the Manaaki New Zealand Scholarship programme for eligible applicants from Samoa.",
+      "description": "The Samoa Foundation Scholarship provides funding for eligible applicants to study in New Zealand. Applications open at midnight on 4 August 2026 and close at midday on 4 September 2026.",
       "official_url": "https://www.nzscholarships.govt.nz/how-to-apply-for-a-scholarship/",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:36:46.173919+00:00"
+      "last_checked": "2026-08-26T00:47:32.216201+00:00"
     },
     {
       "id": "8379bf0c45ab90dc3735",
@@ -4202,11 +4222,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Manaaki New Zealand Scholarships are awarded to citizens from eligible developing countries to undertake study in New Zealand or the Pacific. The scholarship is intended to support scholars in contributing to the social and economic development of their home country.",
+      "description": "Manaaki New Zealand Scholarships provide funding for students from eligible developing countries to undertake study in New Zealand or the Pacific, with the expectation that scholars will contribute to their home country's social and economic development upon completion.",
       "official_url": "https://www.nzscholarships.govt.nz/check-eligibility-criteria/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:37:00.581529+00:00"
+      "last_checked": "2026-08-26T00:47:37.588939+00:00"
     },
     {
       "id": "5af7041266a6c7e2c65f",
@@ -4397,31 +4417,31 @@
         "Master's"
       ],
       "fields": [
-        "Economic policy management",
-        "Tax policy",
-        "Infrastructure management",
-        "Development-related topics"
+        "development-related topics",
+        "economic policy management",
+        "tax policy",
+        "infrastructure management"
       ],
       "funding_type": [
-        "Tuition",
-        "Monthly living stipend",
-        "Round-trip airfare",
-        "Health insurance",
-        "Travel allowance"
+        "tuition",
+        "stipend",
+        "airfare",
+        "health insurance",
+        "travel allowance"
       ],
       "deadline": "2027-05-21",
       "start_date": null,
-      "duration": "Duration of the graduate program or two years, whichever is less",
-      "description": "The JJ/WBGSP offers scholarships for citizens of World Bank member developing countries to pursue master's degree programs in development-related topics at participating universities. Applicants must have relevant professional experience, be admitted to a participating program, and commit to returning to their home country post-graduation.",
+      "duration": "2 years",
+      "description": "The JJ/WBGSP offers scholarships for participating master’s programs in key areas of development for citizens of developing countries with relevant professional experience and a history of supporting their countries’ development efforts.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:37:29.779882+00:00"
+      "last_checked": "2026-08-26T00:47:55.221616+00:00"
     },
     {
       "id": "54cc8b5bd068c0939077",
-      "title": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) - Japanese Nationals",
-      "provider": "World Bank / Government of Japan",
+      "title": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) for Japanese Nationals",
+      "provider": "World Bank",
       "source": "World Bank Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -4443,11 +4463,11 @@
       "deadline": "2027-04-21",
       "start_date": null,
       "duration": "Up to two years",
-      "description": "The JJ/WBGSP provides scholarships for Japanese mid-career professionals dedicated to the alleviation of poverty and enhanced shared prosperity in developing countries to pursue master's or PhD graduate degree programs outside of Japan in development-related fields.",
+      "description": "The JJ/WBGSP provides scholarships to Japanese mid-career professionals dedicated to the alleviation of poverty and enhanced shared prosperity in developing countries. Eligible candidates must be admitted to or enrolled in a master’s or PhD graduate degree program outside of Japan in development-related fields.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/japanese-nationals",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:37:35.404350+00:00"
+      "last_checked": "2026-08-26T00:48:01.746743+00:00"
     },
     {
       "id": "f468b45cf95b0dfb6e0a",
@@ -4467,16 +4487,16 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Joint Japan/World Bank Scholarship Program (JJ/WBGSP) was set up by the government of Japan in partnership with the World Bank to support the poorest countries in their endeavors to enhance the expertise and skill levels of aspiring practitioners and leaders to contribute to policy reform for economic growth and social development.",
+      "description": "The Joint Japan/World Bank Scholarship Program (JJ/WBGSP) was set up by the government of Japan in partnership with the World Bank to support the poorest countries in their endeavors to enhance the expertise and skill levels of aspiring practitioners and leaders, to contribute to policy reform for economic growth and social development.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp-reports",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:37:41.323427+00:00"
+      "last_checked": "2026-08-26T00:48:07.430635+00:00"
     },
     {
       "id": "4ee31d23c501b0def25e",
       "title": "Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP)",
-      "provider": "World Bank / Government of Japan",
+      "provider": "World Bank",
       "source": "World Bank Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -4484,20 +4504,20 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Graduate"
+        "graduate"
       ],
       "fields": [],
       "funding_type": [
-        "Scholarship"
+        "scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships to mid-career professionals from developing countries and Japan to pursue graduate studies in key areas of development at participating universities around the world.",
+      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships for developing country nationals to pursue graduate studies at universities around the world, as well as opportunities for Japanese nationals.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp-promotion-and-outreach",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:37:52.381180+00:00"
+      "last_checked": "2026-08-26T00:48:19.329075+00:00"
     },
     {
       "id": "bfc790098585b33eb15b",
@@ -4508,24 +4528,27 @@
       "destination_countries": [
         "Global"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "Developing countries",
+        "Japan"
+      ],
       "degree_levels": [
-        "graduate"
+        "Graduate"
       ],
       "fields": [
-        "development-related fields"
+        "Development-related fields"
       ],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Since 1987, JJ/WBGSP has enabled mid-career professionals from developing countries and Japan to complete graduate degrees in development-related fields.",
+      "description": "Since 1987, JJ/WBGSP has enabled mid-career professionals from developing countries and Japan to complete graduate degrees in development-related fields. The program is funded by the Government of Japan.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:37:12.457108+00:00"
+      "last_checked": "2026-08-26T00:47:48.632156+00:00"
     },
     {
       "id": "8989b42ae839cca26b02",
@@ -4547,11 +4570,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "8 months",
-      "description": "The Robert S. McNamara Fellowships Program (RSMFP) matches aspiring development economics researchers from developing countries with World Bank research economists, creating unique opportunities for the fellows to participate in rigorous policy-relevant research in the World Bank’s Development Economics Vice Presidency (DEC).",
+      "description": "The Robert S. McNamara Fellowships Program (RSMFP) matches aspiring development economics researchers from developing countries with World Bank research economists to participate in rigorous policy-relevant research in the World Bank’s Development Economics Vice Presidency (DEC). Fellows are hosted at the World Bank in Washington, D.C.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/brief/robert-s-mcnamara-fellowships-program",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:38:39.576136+00:00"
+      "last_checked": "2026-08-26T00:48:43.202562+00:00"
     },
     {
       "id": "01102957048537a7e57b",
@@ -4574,26 +4597,23 @@
       ],
       "fields": [
         "Public Policy",
-        "Climate Change",
-        "Environmental Economics",
         "Development Studies",
-        "Global Health",
+        "Economics",
+        "Environmental Management",
         "Public Health",
-        "Taxation Policy",
-        "Water and Sustainable Development",
-        "Economics"
+        "Water Management"
       ],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The JJ/WBGSP provides scholarships to individuals from World Bank member developing countries to undertake graduate studies in selected universities around the world in key areas of development.",
+      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships to nationals of developing countries to pursue graduate studies at selected universities around the world in key areas of development.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/brief/jjwbgsp-participating-programs",
       "status": "open",
-      "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:38:45.589222+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-08-26T00:48:48.990454+00:00"
     },
     {
       "id": "b53b1ac9fdc2dc6d025e",
@@ -4672,12 +4692,17 @@
         "Armenia",
         "Azerbaijan",
         "Belarus",
+        "Denmark",
         "Estonia",
+        "Finland",
         "Georgia",
+        "Germany",
         "Latvia",
         "Lithuania",
         "Moldova",
+        "Norway",
         "Poland",
+        "Sweden",
         "Ukraine"
       ],
       "degree_levels": [],
@@ -4692,12 +4717,12 @@
       "official_url": "https://si.se/en/apply/funding-grants/",
       "status": "closed",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:30:34.792997+00:00"
+      "last_checked": "2026-08-26T00:41:48.521626+00:00"
     },
     {
       "id": "dee77abbc0ad8adb0878",
-      "title": "Stipendium Hungaricum Scholarship Programme",
-      "provider": "Hungarian Government",
+      "title": "Stipendium Hungaricum Scholarship",
+      "provider": "Tempus Public Foundation",
       "source": "Stipendium Hungaricum",
       "source_type": "official",
       "destination_countries": [
@@ -4705,23 +4730,23 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Bachelor",
-        "Master",
-        "Doctoral"
+        "bachelor",
+        "master",
+        "one-tier master",
+        "doctoral"
       ],
       "fields": [],
       "funding_type": [
-        "tuition waiver",
-        "accommodation support"
+        "scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Stipendium Hungaricum scholarship programme aims to promote the internationalisation of Hungarian higher education and to attract top international students from all around the world, offering coverage of tuition fees and support for accommodation costs.",
+      "description": "The Stipendium Hungaricum Programme provides scholarships for international students to pursue higher education studies in Hungary. It includes coverage for study, research, and internship opportunities for students at various degree levels. The programme is overseen by the Ministry of Foreign Affairs and Trade and managed by the Tempus Public Foundation.",
       "official_url": "https://stipendiumhungaricum.hu/",
-      "status": "open",
+      "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:32:20.543029+00:00"
+      "last_checked": "2026-08-26T00:43:31.932994+00:00"
     },
     {
       "id": "63314dd3d5d58073e2e1",
@@ -4766,29 +4791,29 @@
         "bachelor’s",
         "master’s",
         "one-tier master’s",
-        "non-degree",
-        "doctoral"
+        "non-degree programmes",
+        "doctoral programmes"
       ],
       "fields": [],
       "funding_type": [
         "Tuition waiver",
-        "Stipend",
+        "Monthly stipend",
         "Accommodation contribution",
         "Medical insurance"
       ],
       "deadline": "2026-01-15T14:00:00+01:00",
       "start_date": "2026-09",
       "duration": null,
-      "description": "The Stipendium Hungaricum scholarship offers tuition-free education, a monthly stipend, accommodation contribution, medical insurance, and a student ID for students pursuing bachelor’s, master’s, one-tier master’s, non-degree, or doctoral programmes in Hungary.",
+      "description": "The Stipendium Hungaricum scholarship offers tuition-free education, a monthly stipend, accommodation contribution, and medical insurance for international students pursuing bachelor's, master's, one-tier master's, non-degree, or doctoral programmes in Hungary.",
       "official_url": "https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:32:56.490307+00:00"
+      "last_checked": "2026-08-26T00:43:37.815111+00:00"
     },
     {
       "id": "d58c7c1f787cb1bf3239",
-      "title": "Aichi Scholarship Program [Pre-Arrival Admission]",
-      "provider": "Aichi Prefectural Government",
+      "title": "Yamagata Prefectural Scholarship for Privately Financed Foreign Students",
+      "provider": "Yamagata Pref.",
       "source": "MEXT",
       "source_type": "official",
       "destination_countries": [
@@ -4796,8 +4821,15 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
+        "Doctoral degree program",
         "Master's degree program",
-        "Graduate research students"
+        "Professional degree program",
+        "Bachelor's degree program",
+        "University Japanese programs",
+        "Junior Colleges",
+        "Specialized Training Colleges",
+        "College of technology",
+        "Japanese language institutions"
       ],
       "fields": [],
       "funding_type": [
@@ -4806,11 +4838,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "A scholarship program offered by the Aichi Prefectural Government for international students applying for Master's degree programs or as graduate research students.",
+      "description": "Scholarship program for privately financed foreign students in Yamagata Prefecture.",
       "official_url": "https://www.studyinjapan.go.jp/en/search-for-scholarships/tuition-reduction_search.php",
       "status": "unknown",
-      "listing_type": "database",
-      "last_checked": "2026-08-25T12:33:36.829588+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-08-26T00:44:11.659767+00:00"
     },
     {
       "id": "170e7d77f1ced95486f1",
@@ -4828,15 +4860,13 @@
         "Master"
       ],
       "fields": [
-        "Social Policy",
-        "Global Health",
         "Public Policy",
+        "Global Sustainability",
+        "Global Health",
         "Economic Policy",
-        "Public Health",
-        "Health Equity",
-        "Development Practice",
+        "Public Management",
         "International Relations",
-        "Policy Economics",
+        "Development Practice",
         "Systemic Risk"
       ],
       "funding_type": [
@@ -4845,16 +4875,16 @@
       "deadline": "2026-02-27",
       "start_date": null,
       "duration": null,
-      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) supports graduate studies in participating programs at universities globally. Application Window #1 for 2026 programs is open from January 15 to February 27, 2026, covering various Master's degree programs at institutions including Brandeis, Columbia, Johns Hopkins, KIT/Vrije Universiteit Amsterdam, UC-Berkeley, University of Tokyo, University of Tsukuba, Williams College, and Yale.",
+      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) supports students from developing countries to pursue master's degrees in select programs at partner universities in the U.S., Europe, and Japan.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/brief/jjwbgsp-participating-programs-2022-2024-application-window-1",
-      "status": "open",
+      "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:38:07.184411+00:00"
+      "last_checked": "2026-08-26T00:48:31.773997+00:00"
     },
     {
       "id": "632997512a5585555fdd",
       "title": "JJ/WBGSP Participating Programs 2026 — Application Window #2",
-      "provider": "World Bank",
+      "provider": "World Bank Group",
       "source": "World Bank Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -4871,26 +4901,26 @@
       ],
       "fields": [
         "Public Policy",
-        "Economics",
-        "Environment",
         "Development Studies",
+        "Economics",
+        "Environmental Management",
+        "International Relations",
         "Public Health",
-        "Water Education",
-        "Taxation",
-        "Agriculture",
-        "Engineering"
+        "Engineering",
+        "Urban Management",
+        "Taxation"
       ],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": "2026-05-29",
       "start_date": null,
       "duration": null,
-      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships for individuals from developing countries to undertake graduate studies in participating master's programs at select universities globally.",
+      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships to nationals of World Bank member developing countries to pursue graduate studies in selected participating master's programs at universities around the world.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/brief/jjwbgsp-participating-programs-2022-2024-application-window-2",
-      "status": "open",
+      "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:38:13.282726+00:00"
+      "last_checked": "2026-08-26T00:48:37.658892+00:00"
     },
     {
       "id": "ae76ad8554bedcbcb530",
@@ -4915,11 +4945,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Research Internships in Science and Engineering (RISE) in Germany for undergraduate students.",
+      "description": "RISE Germany offers undergraduate students from North American, British and Irish universities the opportunity to complete a summer research internship at top German universities and research institutions.",
       "official_url": "https://www.daad.org.uk/en/find-funding/faqs/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:23:00.527279+00:00"
+      "last_checked": "2026-08-26T00:34:19.301915+00:00"
     },
     {
       "id": "ab0c2ef432198d7ef634",
@@ -5053,7 +5083,7 @@
     {
       "id": "d1779e6f18a0584baaae",
       "title": "YTB-IsDB Joint Scholarship Program 2025",
-      "provider": "YTB and Islamic Development Bank (IsDB)",
+      "provider": "YTB and IsDB (Islamic Development Bank)",
       "source": "Türkiye Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -5078,11 +5108,11 @@
       "deadline": "2025-03-20",
       "start_date": null,
       "duration": null,
-      "description": "YTB and IsDB offer scholarships to students and scholars from IsDB member countries to pursue studies at prestigious universities in Türkiye in Science and Technology subjects for development. For associate and bachelor’s degrees, the scholarship is an interest-free loan (Qard-Hasan) requiring repayment after graduation.",
+      "description": "YTB and IsDB offer scholarships to students and scholars from IsDB member countries to pursue studies at prestigious universities in Türkiye. The program covers Associate, Bachelor's, Master's, and PhD degrees in Science and Technology subjects. For associate and bachelor’s degrees, the scholarship is provided as an interest-free loan (Qard-Hasan) requiring repayment after graduation.",
       "official_url": "https://www.turkiyeburslari.gov.tr/announcements/ytbisdb-joint-scholarship-program-2025-applications-116",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-08-25T12:35:02.400895+00:00"
+      "last_checked": "2026-08-26T00:45:34.822558+00:00"
     },
     {
       "id": "95ca48bd920422194800",
@@ -5244,11 +5274,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "A list of countries eligible for the JJWBGSP scholarship for the year 2027.",
+      "description": "List of countries eligible for the JJWBGSP Scholarship in 2027.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/brief/countries-eligible-for-jjwbgsp-scholarship",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-08-25T12:37:59.020087+00:00"
+      "last_checked": "2026-08-26T00:48:26.032416+00:00"
     },
     {
       "id": "ea5da7555bf18a6e6efc",
