@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T02:24:30.266919+00:00",
+  "updated_at": "2026-09-15T16:06:04.013683+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -719,8 +719,8 @@
     },
     {
       "id": "ed8777f739c4a6543954",
-      "title": "Chevening Scholarships",
-      "provider": "Foreign, Commonwealth and Development Office (FCDO)",
+      "title": "Chevening Scholarship",
+      "provider": "Foreign, Commonwealth and Development Office (FCDO) and partner organisations",
       "source": "Chevening",
       "source_type": "official",
       "destination_countries": [
@@ -737,11 +737,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 year",
-      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The programme is aimed at emerging leaders with ambition, leadership qualities, and a passion for influencing positive change in their home countries.",
+      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The programme is aimed at emerging leaders with ambition, leadership qualities, and a passion for influencing positive change.",
       "official_url": "https://www.chevening.org/who-can-apply",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-09-15T02:12:44.155748+00:00"
+      "last_checked": "2026-09-15T15:52:43.775635+00:00"
     },
     {
       "id": "88f98d282f455c930b10",
@@ -893,11 +893,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university. Funded by the UK Foreign, Commonwealth & Development Office.",
+      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university. Funded by the UK Foreign, Commonwealth & Development Office (FCDO).",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-09-15T02:13:07.701558+00:00"
+      "last_checked": "2026-09-15T15:53:19.609788+00:00"
     },
     {
       "id": "e380b5fe15691966d0b3",
@@ -916,7 +916,7 @@
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
@@ -925,7 +925,7 @@
       "official_url": "https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-09-15T02:13:13.985797+00:00"
+      "last_checked": "2026-09-15T15:53:29.838873+00:00"
     },
     {
       "id": "82818f7bd3e8a2594196",
@@ -1229,22 +1229,24 @@
         "Vanuatu",
         "Zambia"
       ],
-      "degree_levels": [],
+      "degree_levels": [
+        "Graduate"
+      ],
       "fields": [
-        "Entrepreneurship",
-        "Business"
+        "Entrepreneurship"
       ],
       "funding_type": [
-        "grant"
+        "Fellowship",
+        "Grant"
       ],
       "deadline": null,
       "start_date": "2026-11-16",
       "duration": "6 months",
-      "description": "The Commonwealth Startup Fellowships is a six-month programme designed to elevate high-potential startups from low and middle income Commonwealth countries through immersive in-person experiences and online learning. Includes up to £2,000 in equity-free grants and travel for bootcamp in Ghana and capstone events in London.",
+      "description": "Commonwealth Startup Fellowships are designed to support high-potential startups from low and middle income Commonwealth countries through a combination of in-person bootcamps and online learning to help scale businesses and drive job creation.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-startup-fellowship-information-for-candidates/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-09-15T02:13:37.699369+00:00"
+      "last_checked": "2026-09-15T15:53:58.628976+00:00"
     },
     {
       "id": "67e04fc4fb9576acdea3",
@@ -2240,7 +2242,7 @@
     {
       "id": "4230694cba1d437aafe6",
       "title": "Global Professionals",
-      "provider": "Swedish Institute (SI)",
+      "provider": "Swedish Institute",
       "source": "Swedish Institute",
       "source_type": "official",
       "destination_countries": [
@@ -2248,11 +2250,11 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master's"
+        "master's"
       ],
       "fields": [],
       "funding_type": [
-        "Fully funded scholarship"
+        "scholarship"
       ],
       "deadline": null,
       "start_date": null,
@@ -2261,7 +2263,7 @@
       "official_url": "https://si.se/en/apply/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-09-15T02:17:37.819998+00:00"
+      "last_checked": "2026-09-15T15:59:46.069685+00:00"
     },
     {
       "id": "ea1b0f760117f1a18f45",
