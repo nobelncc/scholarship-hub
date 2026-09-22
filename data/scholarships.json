@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T02:26:10.572588+00:00",
+  "updated_at": "2026-09-22T16:03:51.623199+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -587,20 +587,20 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master's"
+        "Postgraduate"
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": "2026-10-06T11:00:00Z",
       "start_date": "2027-09-01",
       "duration": null,
       "description": "Chevening Scholarships are the UK government’s global scholarship programme, funded by the Foreign, Commonwealth and Development Office (FCDO) and partner organisations, supporting study in the UK.",
       "official_url": "https://www.chevening.org/scholarships/application-timeline/",
-      "status": "open",
+      "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:10:06.124993+00:00"
+      "last_checked": "2026-09-22T15:53:31.428825+00:00"
     },
     {
       "id": "15b2845ec047aa846682",
@@ -649,7 +649,7 @@
       "official_url": "https://www.chevening.org/fellowships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-09-22T02:10:14.559226+00:00"
+      "last_checked": "2026-09-22T15:53:43.083118+00:00"
     },
     {
       "id": "f68a8c9914d211285a8e",
@@ -2408,21 +2408,20 @@
       "eligible_countries": [],
       "degree_levels": [
         "PhD",
-        "Research",
-        "Art"
+        "Postgraduate"
       ],
       "fields": [],
       "funding_type": [
-        "Scholarship"
+        "scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Swiss Confederation awards Government Excellence Scholarships to encourage international exchange and research cooperation between Switzerland and over 180 other countries. The scholarships support doctoral students, researchers, and artists.",
+      "description": "The Swiss Confederation awards Government Excellence Scholarships to encourage international exchange and research cooperation between Switzerland and over 180 other countries. The scholarships support doctoral and research projects.",
       "official_url": "https://www.sbfi.admin.ch/en/faq-swiss-government-excellence-scholarships",
       "status": "open",
-      "listing_type": "funding_page",
-      "last_checked": "2026-09-22T02:15:06.434374+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-09-22T15:55:44.601154+00:00"
     },
     {
       "id": "849b6baed6127ba00161",
@@ -4280,12 +4279,15 @@
       "degree_levels": [],
       "fields": [
         "Climate Change and Resilience",
+        "Climate change and the environment",
         "Disaster Risk Management",
         "Food Security and Agriculture",
         "Renewable energy",
         "Good Governance",
+        "Governance",
         "Law and Justice",
         "Economic Resilience",
+        "Private Sector",
         "Information Communications Technology",
         "Tourism",
         "Fisheries"
@@ -4293,7 +4295,6 @@
       "funding_type": [
         "tuition fees",
         "stipend",
-        "training costs",
         "travel costs"
       ],
       "deadline": null,
@@ -4301,9 +4302,9 @@
       "duration": "1 week to 12 months",
       "description": "The New Zealand Government offers Vocational Short Term Training Scholarships to fund skills training and work experience for professionals from eligible countries. Scholars can undertake a training course with a New Zealand certified training provider, a work placement, or participate in an online or in-country training course.",
       "official_url": "https://www.nzscholarships.govt.nz/vocational-short-term-scholarships/",
-      "status": "unknown",
+      "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:24:08.949783+00:00"
+      "last_checked": "2026-09-22T16:02:35.299203+00:00"
     },
     {
       "id": "f3398fa7e3543ab9e7f3",
@@ -4420,7 +4421,7 @@
     },
     {
       "id": "3857e320da0299cdc381",
-      "title": "Samoa Foundation",
+      "title": "Samoa Foundation Scholarship",
       "provider": "Manaaki New Zealand Scholarships",
       "source": "New Zealand Scholarships",
       "source_type": "official",
@@ -4438,11 +4439,11 @@
       "deadline": "2026-09-04",
       "start_date": null,
       "duration": null,
-      "description": "The Samoa Foundation scholarship offers funding for eligible applicants to study in New Zealand. Applications open at midnight on 4 August 2026 and close at midday on 4 September 2026.",
+      "description": "The Samoa Foundation Scholarship provides funding for eligible applicants to study in New Zealand. Applications open at midnight on 4 August 2026 and close at midday on 4 September 2026.",
       "official_url": "https://www.nzscholarships.govt.nz/how-to-apply-for-a-scholarship/",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:24:40.802441+00:00"
+      "last_checked": "2026-09-22T16:02:53.239962+00:00"
     },
     {
       "id": "8379bf0c45ab90dc3735",
@@ -4743,7 +4744,7 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "graduate"
+        "Master"
       ],
       "fields": [],
       "funding_type": [
@@ -4752,11 +4753,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships for graduate studies to mid-career professionals from developing countries and from Japan to pursue graduate studies at leading universities around the world.",
+      "description": "The Joint Japan/World Bank Graduate Scholarship Program (JJ/WBGSP) provides scholarships to mid-career professionals from developing countries and Japan to pursue graduate studies at leading universities around the world.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp-promotion-and-outreach",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:25:32.822828+00:00"
+      "last_checked": "2026-09-22T16:03:30.681753+00:00"
     },
     {
       "id": "bfc790098585b33eb15b",
@@ -4783,11 +4784,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The JJ/WBGSP enables mid-career professionals from developing countries and Japan to complete graduate degrees in development-related fields. The program is funded by the Government of Japan.",
+      "description": "The JJ/WBGSP enables mid-career professionals from developing countries and Japan to complete graduate degrees in development-related fields.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:25:02.002592+00:00"
+      "last_checked": "2026-09-22T16:03:15.055785+00:00"
     },
     {
       "id": "8989b42ae839cca26b02",
@@ -5038,18 +5039,18 @@
       "fields": [],
       "funding_type": [
         "tuition waiver",
-        "stipend",
+        "monthly stipend",
         "accommodation contribution",
         "medical insurance"
       ],
       "deadline": "2026-01-15T14:00:00+01:00",
       "start_date": "2026-09",
       "duration": null,
-      "description": "The Stipendium Hungaricum scholarship offers tuition-free education, a monthly stipend, accommodation contribution, medical insurance, and a student ID for international students pursuing bachelor's, master's, one-tier master's, non-degree, or doctoral programs in Hungary starting in September 2026.",
+      "description": "The Stipendium Hungaricum scholarship offers tuition-free education, a monthly stipend, accommodation contribution, medical insurance, and a student ID for students pursuing bachelor’s, master’s, one-tier master’s, non-degree, or doctoral programmes in Hungary.",
       "official_url": "https://stipendiumhungaricum.hu/news/application-is-on-for-the-2026-2027-stipendium-hungaricum-scholarship/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-09-22T02:20:00.012720+00:00"
+      "last_checked": "2026-09-22T16:00:02.820037+00:00"
     },
     {
       "id": "d58c7c1f787cb1bf3239",
