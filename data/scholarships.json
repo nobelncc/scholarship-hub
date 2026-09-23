@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T02:49:16.369144+00:00",
+  "updated_at": "2026-09-23T15:51:58.945291+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -956,12 +956,10 @@
       ],
       "fields": [
         "Human rights",
-        "Democracy",
-        "Rule of law",
-        "Climate change",
-        "Sustainability",
-        "Economic recovery",
-        "Economic growth"
+        "democracy and the rule of law",
+        "Climate change and sustainability",
+        "Economic recovery and growth",
+        "Supportive societies"
       ],
       "funding_type": [
         "Scholarship"
@@ -969,11 +967,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 year",
-      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK. It offers standard Chevening Scholarship benefits with additional exclusive events and networking opportunities.",
+      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK. Scholars receive standard Chevening benefits plus exclusive events, networking opportunities with FCDO officials, and engagement with the Commonwealth Scholarships Commission SIDS scholars.",
       "official_url": "https://www.chevening.org/sids-chevening-scholarship",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-09-23T02:15:22.603016+00:00"
+      "last_checked": "2026-09-23T15:44:22.642745+00:00"
     },
     {
       "id": "61642fa7eeb0bbb18448",
@@ -1109,9 +1107,7 @@
       "destination_countries": [
         "United Kingdom"
       ],
-      "eligible_countries": [
-        "Commonwealth countries"
-      ],
+      "eligible_countries": [],
       "degree_levels": [
         "Master's"
       ],
@@ -1122,11 +1118,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Master’s Scholarships enable talented and motivated individuals to gain the knowledge and skills required for sustainable development. Candidates are nominated for this award through a nominating agency.",
+      "description": "Master’s Scholarships enable talented and motivated individuals from low and middle income Commonwealth countries to gain the knowledge and skills required for sustainable development.",
       "official_url": "https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-09-23T02:16:23.197144+00:00"
+      "last_checked": "2026-09-23T15:44:58.154068+00:00"
     },
     {
       "id": "82818f7bd3e8a2594196",
