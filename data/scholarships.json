@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T02:09:54.260872+00:00",
+  "updated_at": "2026-09-24T16:10:18.442258+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -235,11 +235,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 to 2 academic years",
-      "description": "Erasmus Mundus Joint Masters are prestigious international masters, jointly designed and delivered by a group of higher education institutions. Full scholarships are available for the best-ranked students worldwide, covering participation costs, travel, visa, and a living allowance.",
+      "description": "Erasmus Mundus Joint Masters are prestigious international master's programmes, jointly designed and delivered by a group of higher education institutions. They involve at least 3 institutions from at least 3 different countries. Full scholarships are available for the best students to cover participation costs, travel, visa, and a living allowance.",
       "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-09-24T01:55:40.304570+00:00"
+      "last_checked": "2026-09-24T16:02:06.789190+00:00"
     },
     {
       "id": "cf73fa8ed731f4ae2154",
@@ -262,11 +262,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 to 2 academic years",
-      "description": "Erasmus Mundus Joint Masters are high-level and integrated study programmes, at master level, designed and delivered by an international partnership of higher education institutions. The EU provides funding for both running these programmes and offering competitive scholarships to the best students worldwide.",
+      "description": "Erasmus Mundus Joint Masters are high-level and integrated study programmes at the master level, designed and delivered by an international partnership of higher education institutions. The EU provides funding for running these programmes and offering competitive scholarships to students worldwide.",
       "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/organisations/cooperation-among-organisations-and-institutions/erasmus-mundus-joint-masters",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-09-23T02:10:26.194383+00:00"
+      "last_checked": "2026-09-24T16:02:12.344002+00:00"
     },
     {
       "id": "bedb47140ba03ae3c2c2",
@@ -1078,11 +1078,11 @@
     {
       "id": "c942b346b13edfe354e4",
       "title": "Commonwealth Fellowships",
-      "provider": "Commonwealth Scholarship Commission in the UK",
+      "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
-        "United Kingdom"
+        "UK"
       ],
       "eligible_countries": [
         "Bangladesh",
@@ -1166,12 +1166,12 @@
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "Six weeks to three months",
-      "description": "Commonwealth Fellowships are for mid-career professionals and academic staff from Commonwealth countries to undertake a programme of professional or academic development at a UK host organisation. The programme includes two strands: Professional Fellowships and Academic Fellowships.",
+      "duration": null,
+      "description": "The Commonwealth Fellowship Programme features two strands: Professional Fellowships for mid-career professionals and Academic Fellowships for academic staff who hold a PhD, aimed at professional development, knowledge exchange, and networking with a developmental impact.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-fellowships-information-for-candidates/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-09-24T01:58:18.066542+00:00"
+      "last_checked": "2026-09-24T16:03:24.243131+00:00"
     },
     {
       "id": "d217440bd76e3cd3fed1",
