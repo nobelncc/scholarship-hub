@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T02:43:29.945806+00:00",
+  "updated_at": "2026-10-14T16:18:08.062726+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -1812,16 +1812,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "Fully-funded"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
-      "duration": "Two or more years",
-      "description": "The Rhodes Scholarship is a merit-based, fully-funded postgraduate award which enables talented people from around the world to study full-time at the University of Oxford. It aims to develop public-spirited leaders and promote international understanding and community.",
+      "duration": "two or more years",
+      "description": "The Rhodes Scholarship is a fully-funded postgraduate award which enables talented people from around the world to study full-time at the University of Oxford. The scholarship is merit-based and supports students pursuing most full-time postgraduate courses.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/information-for-academic-advisors/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-14T02:32:01.876009+00:00"
+      "last_checked": "2026-10-14T16:08:21.931994+00:00"
     },
     {
       "id": "d51efa6953396660fba7",
@@ -2456,16 +2456,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "Scholarship"
+        "Fully funded scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "A fully funded scholarship for professionals who want to advance sustainable growth and drive societal change in their home country, offered by the Swedish Institute for master's studies in Sweden.",
+      "description": "A fully funded scholarship for professionals who want to advance sustainable growth and drive societal change in their home country, intended for master's level studies in Sweden.",
       "official_url": "https://si.se/en/apply/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-14T02:35:49.563292+00:00"
+      "last_checked": "2026-10-14T16:11:22.667779+00:00"
     },
     {
       "id": "ea1b0f760117f1a18f45",
@@ -2488,16 +2488,16 @@
         "Governance"
       ],
       "funding_type": [
-        "Fully funded scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The SI Scholarship for Global Professionals is awarded to professionals with work and leadership experience, aiming to strengthen their capacity and competence to contribute to the sustainable development of their home countries. The scholarship covers master's studies at Swedish universities.",
+      "description": "A fully funded scholarship for master's studies at Swedish universities, targeted at professionals with work and leadership experience who have the potential to contribute to the sustainable development of their home countries.",
       "official_url": "https://si.se/en/232-international-students-receive-the-si-scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-14T02:36:00.738665+00:00"
+      "last_checked": "2026-10-14T16:11:39.858510+00:00"
     },
     {
       "id": "a392343281af00f0dacc",
@@ -2648,7 +2648,7 @@
         "Governance",
         "Public Health",
         "Entrepreneurship and Innovation",
-        "STEM (Science, Technology, Engineering and Mathematics)"
+        "STEM"
       ],
       "funding_type": [
         "tuition waiver",
@@ -2657,12 +2657,12 @@
       ],
       "deadline": "2026-02-25",
       "start_date": null,
-      "duration": "1-2 years",
-      "description": "The Swedish Institute awards academic scholarships for full-time master’s studies in Sweden to global professionals from a selection of 34 countries. The scholarship covers full tuition fees, a monthly living allowance of SEK 12,000, and a travel grant.",
+      "duration": "one- or two-year",
+      "description": "A fully-funded scholarship for master’s studies in Sweden for global professionals. Includes full tuition fee coverage, a monthly allowance for living expenses, a travel grant, and membership in the SI Network for Global Professionals.",
       "official_url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-10-14T02:36:06.807410+00:00"
+      "last_checked": "2026-10-14T16:11:48.457717+00:00"
     },
     {
       "id": "5baedaa1734fe9da48e3",
@@ -4902,8 +4902,8 @@
       "description": "Funding for cooperation between Swedish actors and organisations in the Baltic Sea region and the EU’s Eastern Partnership countries.",
       "official_url": "https://si.se/en/apply/funding-grants/",
       "status": "closed",
-      "listing_type": "funding_page",
-      "last_checked": "2026-10-14T02:35:55.287879+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-10-14T16:11:34.029757+00:00"
     },
     {
       "id": "dee77abbc0ad8adb0878",
@@ -5670,7 +5670,7 @@
     {
       "id": "f58b185020dfe0c9b15f",
       "title": "France Excellence Eiffel scholarship program",
-      "provider": "French Ministry for Europe and Foreign Affairs",
+      "provider": "French Ministry of Foreign Affairs",
       "source": "Eiffel Excellence Scholarship",
       "source_type": "official",
       "destination_countries": [
@@ -5678,8 +5678,8 @@
       ],
       "eligible_countries": [],
       "degree_levels": [
-        "Master",
-        "Doctorate"
+        "Master's",
+        "Doctoral"
       ],
       "fields": [],
       "funding_type": [
@@ -5688,11 +5688,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The France Excellence Eiffel scholarship programme is intended for foreign students wishing to enroll in Master's or Doctoral level studies in France.",
+      "description": "The France Excellence Eiffel scholarship program is a tool developed by the Ministry of Foreign Affairs to enable French higher education institutions to attract the best international students on master's and doctoral degree programs.",
       "official_url": "https://www.campusfrance.org/en/eiffel",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-08T03:26:45.476287+00:00"
+      "last_checked": "2026-10-14T16:12:21.778414+00:00"
     },
     {
       "id": "520fa7e04b5e24e98a2a",
