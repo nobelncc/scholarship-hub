@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T02:42:22.941503+00:00",
+  "updated_at": "2026-10-21T16:26:47.119884+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -235,11 +235,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 to 2 academic years",
-      "description": "Erasmus Mundus Joint Masters are prestigious international master's programmes jointly designed and delivered by a group of higher education institutions. Full scholarships are available for the best-ranked students worldwide, covering participation costs, travel, visa, and a living allowance.",
+      "description": "Erasmus Mundus Joint Masters are prestigious international masters, jointly designed and delivered by a group of higher education institutions. Full scholarships are available for the best-ranked students worldwide, covering participation costs, travel, visa, and a living allowance.",
       "official_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
-      "status": "open",
+      "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-21T02:18:47.732784+00:00"
+      "last_checked": "2026-10-21T16:13:13.203743+00:00"
     },
     {
       "id": "cf73fa8ed731f4ae2154",
@@ -3825,11 +3825,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Manaaki New Zealand Scholarships provide funding for students from eligible regions and countries to undertake tertiary study at universities or institutes of technology in New Zealand.",
+      "description": "The Manaaki New Zealand Scholarship Programme provides opportunities for international students from eligible regions and countries to undertake undergraduate and postgraduate study in New Zealand.",
       "official_url": "https://www.nzscholarships.govt.nz/international-tertiary-students/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-10-21T02:37:58.521073+00:00"
+      "last_checked": "2026-10-21T16:25:07.991076+00:00"
     },
     {
       "id": "f5d17df7628e8ae57af4",
@@ -5008,7 +5008,7 @@
     {
       "id": "d1779e6f18a0584baaae",
       "title": "YTB-IsDB Joint Scholarship Program 2025",
-      "provider": "YTB and Islamic Development Bank (IsDB)",
+      "provider": "YTB and IsDB",
       "source": "Türkiye Scholarships",
       "source_type": "official",
       "destination_countries": [
@@ -5020,11 +5020,12 @@
       "degree_levels": [
         "Associate",
         "Bachelor's",
-        "Master’s",
+        "Master's",
         "PhD"
       ],
       "fields": [
-        "Science and Technology"
+        "Science",
+        "Technology"
       ],
       "funding_type": [
         "Scholarship",
@@ -5034,11 +5035,11 @@
       "deadline": "2025-03-20",
       "start_date": null,
       "duration": null,
-      "description": "YTB and IsDB offer scholarships to students and scholars from IsDB member countries to pursue studies at prestigious universities in Türkiye. The scholarship includes university admission and full funding. For associate and bachelor’s degrees, the scholarship is an interest-free loan (Qard-Hasan) required to be repaid to the IsDB Education Trust (IET) after graduation and employment.",
+      "description": "YTB and IsDB offer scholarships to students and scholars from IsDB member countries to pursue studies at prestigious universities in Türkiye in Science and Technology fields. The scholarship includes university admission and full funding. For associate and bachelor’s degrees, the support is provided as an interest-free loan (Qard-Hasan) requiring repayment after graduation.",
       "official_url": "https://www.turkiyeburslari.gov.tr/announcements/ytbisdb-joint-scholarship-program-2025-applications-116",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-10-21T02:36:37.076230+00:00"
+      "last_checked": "2026-10-21T16:23:59.514476+00:00"
     },
     {
       "id": "95ca48bd920422194800",
