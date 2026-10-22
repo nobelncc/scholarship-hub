@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T02:28:35.782634+00:00",
+  "updated_at": "2026-10-22T16:30:15.026961+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -202,7 +202,9 @@
       "degree_levels": [
         "Master"
       ],
-      "fields": [],
+      "fields": [
+        "All disciplines"
+      ],
       "funding_type": [
         "Scholarship"
       ],
@@ -212,8 +214,8 @@
       "description": "DAAD scholarships for graduates with a first academic degree wishing to continue their academic training in Germany with a postgraduate course of study.",
       "official_url": "https://www.daad.org.uk/en/find-funding/scholarship-database/",
       "status": "open",
-      "listing_type": "database",
-      "last_checked": "2026-10-21T02:17:47.159621+00:00"
+      "listing_type": "program",
+      "last_checked": "2026-10-22T16:11:56.216819+00:00"
     },
     {
       "id": "4c281c2e2d6187f7b863",
@@ -765,11 +767,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 year",
-      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. Chevening enables outstanding emerging leaders from all over the world to pursue one-year master’s degrees in the UK.",
+      "description": "Chevening Scholarships allow exceptional individuals to study for a one-year master’s degree at a UK university. The programme is designed for outstanding emerging leaders to develop the knowledge, skills, and network needed to influence positive change in their home countries.",
       "official_url": "https://www.chevening.org/scholarships/who-can-apply/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-22T02:13:09.115204+00:00"
+      "last_checked": "2026-10-22T16:15:39.868062+00:00"
     },
     {
       "id": "c9f19032b4f2356c000e",
@@ -966,11 +968,11 @@
       "deadline": null,
       "start_date": null,
       "duration": "1 year",
-      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK. It includes standard Chevening Scholarship benefits plus an enhanced UK programme including exclusive events and networking opportunities.",
+      "description": "The Chevening SIDS Scholarship is an opportunity for outstanding individuals from Small Island Developing States (SIDS) to pursue a one-year master’s degree in the UK, offering an enhanced programme including exclusive events and networking opportunities.",
       "official_url": "https://www.chevening.org/sids-chevening-scholarship",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-21T02:21:11.531991+00:00"
+      "last_checked": "2026-10-22T16:20:17.523067+00:00"
     },
     {
       "id": "61642fa7eeb0bbb18448",
@@ -1104,7 +1106,7 @@
       "source": "Commonwealth Scholarships",
       "source_type": "official",
       "destination_countries": [
-        "United Kingdom"
+        "UK"
       ],
       "eligible_countries": [],
       "degree_levels": [
@@ -1117,11 +1119,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Master’s Scholarships enable talented and motivated individuals from low and middle income Commonwealth countries to gain the knowledge and skills required for sustainable development.",
+      "description": "Master’s Scholarships enable talented and motivated individuals to gain the knowledge and skills required for sustainable development. Candidates are nominated for this award through a nominating agency.",
       "official_url": "https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-10-21T02:21:41.085134+00:00"
+      "last_checked": "2026-10-22T16:20:53.458369+00:00"
     },
     {
       "id": "82818f7bd3e8a2594196",
@@ -1542,11 +1544,11 @@
       "deadline": "2026-12-08",
       "start_date": "2027-09-01",
       "duration": "12 months",
-      "description": "The Commonwealth Shared Scholarship programme provides funding for postgraduate students from Least Developed and middle-income countries to study for a Master’s degree in the UK. Scholarships are jointly funded by the CSC and participating UK universities and are intended for candidates who would not otherwise be able to afford to study in the UK and have the potential to enhance the development of their home countries.",
+      "description": "The Commonwealth Shared Scholarship programme provides opportunities for high-quality postgraduate students from Least Developed and middle-income Commonwealth countries to study a Master’s degree in the UK. Scholarships are jointly funded by the CSC and participating UK universities, covering tuition fees, travel costs, and a monthly stipend.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships-applications/",
       "status": "upcoming",
       "listing_type": "program",
-      "last_checked": "2026-10-20T16:07:31.443897+00:00"
+      "last_checked": "2026-10-22T16:21:35.189761+00:00"
     },
     {
       "id": "4c5f7619f5fe4c3a0598",
@@ -1737,17 +1739,17 @@
       ],
       "fields": [],
       "funding_type": [
-        "Tuition waiver",
-        "Stipend"
+        "tuition waiver",
+        "stipend"
       ],
       "deadline": null,
       "start_date": null,
       "duration": "2 years",
-      "description": "The Rhodes Scholarship is a fully funded, full-time postgraduate award which enables talented people from around the world to study at the University of Oxford. The scholarship covers Oxford University course fees, an annual stipend for living expenses, the application fee for the University of Oxford, student visa fees, International Health Surcharge, and two economy class flights to and from the UK.",
+      "description": "The Rhodes Scholarship is a fully funded, full-time postgraduate award which enables talented people from around the world to study at the University of Oxford. It covers Oxford University course fees, an annual stipend for living expenses, the fee required to apply to study at the University of Oxford, student visa and International Health Surcharge (IHS) fees, and two economy class flights to and from the UK.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/faqs/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-22T02:16:24.581171+00:00"
+      "last_checked": "2026-10-22T16:22:24.348184+00:00"
     },
     {
       "id": "ad240fa04ee693b48958",
@@ -4658,26 +4660,26 @@
         "Master's"
       ],
       "fields": [
-        "Economic policy management",
-        "Tax policy",
-        "Infrastructure management",
-        "Development-related topics"
+        "development-related topics",
+        "economic policy management",
+        "tax policy",
+        "infrastructure management"
       ],
       "funding_type": [
-        "Tuition",
-        "Living stipend",
-        "Airfare",
-        "Health insurance",
-        "Travel allowance"
+        "tuition",
+        "stipend",
+        "airfare",
+        "health insurance",
+        "travel allowance"
       ],
       "deadline": "2027-05-21",
       "start_date": null,
-      "duration": "Duration of the graduate program or two years, whichever is less",
-      "description": "The JJ/WBGSP is open to citizens of certain developing countries with relevant professional experience and a history of supporting their countries’ development efforts who are applying to a master's degree program in a development-related topic. The program covers 44 Participating Master’s Programs in 24 universities.",
+      "duration": "up to 2 years",
+      "description": "The JJ/WBGSP is open to citizens of certain developing countries with relevant professional experience and a history of supporting their countries’ development efforts who are applying to a master's degree program in a development-related topic at one of 44 participating master’s programs.",
       "official_url": "https://www.worldbank.org/en/programs/scholarships/jj-wbgsp",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-10-22T02:27:32.706143+00:00"
+      "last_checked": "2026-10-22T16:30:04.340402+00:00"
     },
     {
       "id": "8989b42ae839cca26b02",
