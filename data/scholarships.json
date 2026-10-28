@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:09:22.345162+00:00",
+  "updated_at": "2026-10-28T17:45:12.790871+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -897,16 +897,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "scholarship"
+        "Scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university. Funded by the UK Foreign, Commonwealth & Development Office (FCDO).",
+      "description": "Commonwealth Master’s Scholarships are for candidates from eligible lower and upper middle income Commonwealth countries, to undertake full-time taught Master’s study at a UK university.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-10-28T02:53:18.327430+00:00"
+      "last_checked": "2026-10-28T17:34:37.204001+00:00"
     },
     {
       "id": "e380b5fe15691966d0b3",
@@ -970,11 +970,16 @@
       "destination_countries": [
         "United Kingdom"
       ],
-      "eligible_countries": [],
+      "eligible_countries": [
+        "Low income countries",
+        "Middle income countries"
+      ],
       "degree_levels": [],
-      "fields": [],
+      "fields": [
+        "Professional development"
+      ],
       "funding_type": [
-        "fellowship"
+        "Fellowship"
       ],
       "deadline": null,
       "start_date": null,
@@ -983,7 +988,7 @@
       "official_url": "https://cscuk.fcdo.gov.uk/host-organisations/",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-10-28T02:53:47.370233+00:00"
+      "last_checked": "2026-10-28T17:35:03.673785+00:00"
     },
     {
       "id": "a9b2791e809af596837b",
@@ -1083,7 +1088,7 @@
     },
     {
       "id": "c942b346b13edfe354e4",
-      "title": "Commonwealth Fellowship Programme",
+      "title": "Commonwealth Fellowship Programme (2026/27)",
       "provider": "Commonwealth Scholarship Commission in the UK (CSC)",
       "source": "Commonwealth Scholarships",
       "source_type": "official",
@@ -1113,8 +1118,8 @@
         "Turks and Caicos Islands"
       ],
       "degree_levels": [
-        "Postdoctoral",
-        "Professional"
+        "Professional",
+        "Postdoctoral"
       ],
       "fields": [
         "Science and technology for development",
@@ -1125,16 +1130,16 @@
         "Access, inclusion and opportunity"
       ],
       "funding_type": [
-        "Fellowship"
+        "fellowship"
       ],
       "deadline": "2026-11-05",
       "start_date": "2027-03-01",
       "duration": "up to three months",
-      "description": "The Commonwealth Fellowship Programme offers two strands: Professional Fellowships for mid-career professionals with at least five years of experience, and Academic Fellowships for academic staff who hold a PhD. These fellowships provide professional/academic development, knowledge exchange, and networking at a UK host organisation, aiming to have a developmental impact upon the Fellow's return home.",
+      "description": "The Commonwealth Fellowship Programme offers two strands: Professional Fellowships for mid-career professionals and Academic Fellowships for PhD holders employed at universities. The programme supports professional development, skills updates, knowledge exchange, and networking at UK host organizations under six specific development themes.",
       "official_url": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-fellowships-information-for-candidates/",
       "status": "open",
       "listing_type": "program",
-      "last_checked": "2026-10-27T02:43:25.094746+00:00"
+      "last_checked": "2026-10-28T17:35:17.815185+00:00"
     },
     {
       "id": "d217440bd76e3cd3fed1",
@@ -1496,11 +1501,11 @@
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The Rhodes Scholarship is a postgraduate opportunity to study at the University of Oxford. The scholarship is awarded to exceptional individuals who demonstrate the potential to make a positive impact on the world.",
+      "description": "The Rhodes Scholarship is a postgraduate opportunity to study at the University of Oxford. It is intended for exceptional people from around the world.",
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/applications/",
       "status": "closed",
       "listing_type": "program",
-      "last_checked": "2026-10-28T02:55:06.309015+00:00"
+      "last_checked": "2026-10-28T17:37:05.932325+00:00"
     },
     {
       "id": "cf3e3bcc63966e9ac2e1",
