@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:58:29.621721+00:00",
+  "updated_at": "2026-11-10T05:41:31.861314+00:00",
   "scholarships": [
     {
       "id": "2803f4e4beb09d1787ba",
@@ -1426,7 +1426,7 @@
       ],
       "fields": [],
       "funding_type": [
-        "Scholarship"
+        "Fully-funded"
       ],
       "deadline": null,
       "start_date": null,
@@ -1435,7 +1435,7 @@
       "official_url": "https://www.rhodeshouse.ox.ac.uk/scholarships/",
       "status": "unknown",
       "listing_type": "program",
-      "last_checked": "2026-11-09T21:47:20.153877+00:00"
+      "last_checked": "2026-11-10T05:06:50.211576+00:00"
     },
     {
       "id": "fe81bc5aab37213a78d1",
@@ -5280,16 +5280,16 @@
       ],
       "fields": [],
       "funding_type": [
-        "Scholarship"
+        "scholarship"
       ],
       "deadline": null,
       "start_date": null,
       "duration": null,
-      "description": "The France Excellence Eiffel Scholarship program is designed to allow French higher education institutions to attract the best international students for master's and doctoral programs.",
+      "description": "The France Excellence Eiffel Scholarship program is designed to attract international students to French higher education institutions at the Master's and PhD levels.",
       "official_url": "https://www.campusfrance.org/en/recherche/theme/grants-and-financial-aid-346",
       "status": "unknown",
       "listing_type": "funding_page",
-      "last_checked": "2026-11-09T21:52:09.583563+00:00"
+      "last_checked": "2026-11-10T05:32:15.875137+00:00"
     },
     {
       "id": "615fa833aa92bf77c0b9",
